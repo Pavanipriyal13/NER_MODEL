@@ -1,0 +1,910 @@
+{"text": "Can Metformin be prescribed for this patient?", "entities": [{"start": 4, "end": 13, "label": "DRUG", "text": "Metformin"}]}
+{"text": "What is the standard dose of Metformin Hydrochloride?", "entities": [{"start": 29, "end": 52, "label": "DRUG", "text": "Metformin Hydrochloride"}]}
+{"text": "Is Metformin Hydrochloride (Sustained Release) available?", "entities": [{"start": 3, "end": 46, "label": "DRUG", "text": "Metformin Hydrochloride (Sustained Release)"}]}
+{"text": "Does Metformin Hydrochloride (Prolonged Release) cause lactic acidosis?", "entities": [{"start": 5, "end": 48, "label": "DRUG", "text": "Metformin Hydrochloride (Prolonged Release)"}]}
+{"text": "What is the maximum daily dose of Glimepiride?", "entities": [{"start": 34, "end": 45, "label": "DRUG", "text": "Glimepiride"}]}
+{"text": "Is Glibenclamide still recommended for elderly patients?", "entities": [{"start": 3, "end": 16, "label": "DRUG", "text": "Glibenclamide"}]}
+{"text": "How does Pioglitazone affect liver function?", "entities": [{"start": 9, "end": 21, "label": "DRUG", "text": "Pioglitazone"}]}
+{"text": "Can Voglibose be taken with food?", "entities": [{"start": 4, "end": 13, "label": "DRUG", "text": "Voglibose"}]}
+{"text": "Is Insulin Glargine safe in renal impairment?", "entities": [{"start": 3, "end": 19, "label": "DRUG", "text": "Insulin Glargine"}]}
+{"text": "What is the mechanism of action of Lixisenatide?", "entities": [{"start": 35, "end": 47, "label": "DRUG", "text": "Lixisenatide"}]}
+{"text": "Can Liraglutide be used in obesity?", "entities": [{"start": 4, "end": 15, "label": "DRUG", "text": "Liraglutide"}]}
+{"text": "Is Sitagliptin renally cleared?", "entities": [{"start": 3, "end": 14, "label": "DRUG", "text": "Sitagliptin"}]}
+{"text": "Does Saxagliptin require dose adjustment in renal failure?", "entities": [{"start": 5, "end": 16, "label": "DRUG", "text": "Saxagliptin"}]}
+{"text": "What monitoring is needed for Atorvastatin?", "entities": [{"start": 30, "end": 42, "label": "DRUG", "text": "Atorvastatin"}]}
+{"text": "Can Rosuvastatin be used in hepatic impairment?", "entities": [{"start": 4, "end": 16, "label": "DRUG", "text": "Rosuvastatin"}]}
+{"text": "Is Simvastatin associated with myopathy?", "entities": [{"start": 3, "end": 14, "label": "DRUG", "text": "Simvastatin"}]}
+{"text": "What is the half-life of Ramipril?", "entities": [{"start": 25, "end": 33, "label": "DRUG", "text": "Ramipril"}]}
+{"text": "Does Lisinopril affect potassium levels?", "entities": [{"start": 5, "end": 15, "label": "DRUG", "text": "Lisinopril"}]}
+{"text": "Can Enalapril be used in bilateral renal artery stenosis?", "entities": [{"start": 4, "end": 13, "label": "DRUG", "text": "Enalapril"}]}
+{"text": "Is Telmisartan safe during the first trimester?", "entities": [{"start": 3, "end": 14, "label": "DRUG", "text": "Telmisartan"}]}
+{"text": "What dose of Valsartan is used for heart failure?", "entities": [{"start": 13, "end": 22, "label": "DRUG", "text": "Valsartan"}]}
+{"text": "Can Losartan be taken once daily?", "entities": [{"start": 4, "end": 12, "label": "DRUG", "text": "Losartan"}]}
+{"text": "Does Irbesartan interact with NSAIDs?", "entities": [{"start": 5, "end": 15, "label": "DRUG", "text": "Irbesartan"}]}
+{"text": "Is Amlodipine a long-acting calcium channel blocker?", "entities": [{"start": 3, "end": 13, "label": "DRUG", "text": "Amlodipine"}]}
+{"text": "What are the contraindications of Nifedipine?", "entities": [{"start": 34, "end": 44, "label": "DRUG", "text": "Nifedipine"}]}
+{"text": "Can Carvedilol be used in mild asthma?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Carvedilol"}]}
+{"text": "Is Metoprolol Succinate Extended Release once-daily dosing?", "entities": [{"start": 3, "end": 40, "label": "DRUG", "text": "Metoprolol Succinate Extended Release"}]}
+{"text": "Does Bisoprolol reduce heart rate adequately at 5 mg?", "entities": [{"start": 5, "end": 15, "label": "DRUG", "text": "Bisoprolol"}]}
+{"text": "What is the usual starting dose of Atenolol?", "entities": [{"start": 35, "end": 43, "label": "DRUG", "text": "Atenolol"}]}
+{"text": "Can Nebivolol be given to patients with peripheral vascular disease?", "entities": [{"start": 4, "end": 13, "label": "DRUG", "text": "Nebivolol"}]}
+{"text": "Is Spironolactone associated with gynaecomastia?", "entities": [{"start": 3, "end": 17, "label": "DRUG", "text": "Spironolactone"}]}
+{"text": "What is the dose of Frusemide in acute pulmonary oedema?", "entities": [{"start": 20, "end": 29, "label": "DRUG", "text": "Frusemide"}]}
+{"text": "Does Hydrochlorothiazide cause hyponatraemia?", "entities": [{"start": 5, "end": 24, "label": "DRUG", "text": "Hydrochlorothiazide"}]}
+{"text": "Can Indapamide be used in patients with gout?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Indapamide"}]}
+{"text": "Is Clopidogrel effective after coronary stenting?", "entities": [{"start": 3, "end": 14, "label": "DRUG", "text": "Clopidogrel"}]}
+{"text": "Does Aspirin interact with Warfarin?", "entities": [{"start": 5, "end": 12, "label": "DRUG", "text": "Aspirin"}]}
+{"text": "What INR should be targeted with Warfarin for atrial fibrillation?", "entities": [{"start": 33, "end": 41, "label": "DRUG", "text": "Warfarin"}]}
+{"text": "Is Apixaban preferred over Rivaroxaban in renal impairment?", "entities": [{"start": 3, "end": 11, "label": "DRUG", "text": "Apixaban"}]}
+{"text": "Can Rivaroxaban be taken without food?", "entities": [{"start": 4, "end": 15, "label": "DRUG", "text": "Rivaroxaban"}]}
+{"text": "What is the reversal agent for Dabigatran?", "entities": [{"start": 31, "end": 41, "label": "DRUG", "text": "Dabigatran"}]}
+{"text": "Is Digoxin used in rate control for atrial fibrillation?", "entities": [{"start": 3, "end": 10, "label": "DRUG", "text": "Digoxin"}]}
+{"text": "Does Amiodarone affect thyroid function?", "entities": [{"start": 5, "end": 15, "label": "DRUG", "text": "Amiodarone"}]}
+{"text": "Can Furosemide and Spironolactone be combined?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Furosemide"}, {"start": 19, "end": 33, "label": "DRUG", "text": "Spironolactone"}]}
+{"text": "What is the correct dose of Prednisolone for asthma exacerbation?", "entities": [{"start": 28, "end": 40, "label": "DRUG", "text": "Prednisolone"}]}
+{"text": "Is Budesonide available as an inhaler?", "entities": [{"start": 3, "end": 13, "label": "DRUG", "text": "Budesonide"}]}
+{"text": "Can Salbutamol be used as a reliever inhaler?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Salbutamol"}]}
+{"text": "Does Tiotropium reduce exacerbations in COPD?", "entities": [{"start": 5, "end": 15, "label": "DRUG", "text": "Tiotropium"}]}
+{"text": "What is the inhaled dose of Fluticasone for moderate asthma?", "entities": [{"start": 28, "end": 39, "label": "DRUG", "text": "Fluticasone"}]}
+{"text": "Is Montelukast appropriate for allergic rhinitis?", "entities": [{"start": 3, "end": 14, "label": "DRUG", "text": "Montelukast"}]}
+{"text": "Can Cetirizine be taken once daily?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Cetirizine"}]}
+{"text": "Does Loratadine cause sedation?", "entities": [{"start": 5, "end": 15, "label": "DRUG", "text": "Loratadine"}]}
+{"text": "Is Omeprazole more effective than Ranitidine for GERD?", "entities": [{"start": 3, "end": 13, "label": "DRUG", "text": "Omeprazole"}]}
+{"text": "Can Pantoprazole be given intravenously?", "entities": [{"start": 4, "end": 16, "label": "DRUG", "text": "Pantoprazole"}]}
+{"text": "What are the interactions of Esomeprazole with Clopidogrel?", "entities": [{"start": 29, "end": 41, "label": "DRUG", "text": "Esomeprazole"}, {"start": 47, "end": 58, "label": "DRUG", "text": "Clopidogrel"}]}
+{"text": "Is Lansoprazole safe in pregnancy?", "entities": [{"start": 3, "end": 15, "label": "DRUG", "text": "Lansoprazole"}]}
+{"text": "Can Metronidazole be used for Helicobacter pylori eradication?", "entities": [{"start": 4, "end": 17, "label": "DRUG", "text": "Metronidazole"}]}
+{"text": "What is the role of Clarithromycin in H. pylori treatment?", "entities": [{"start": 20, "end": 34, "label": "DRUG", "text": "Clarithromycin"}]}
+{"text": "Does Amoxicillin cover Streptococcal infections?", "entities": [{"start": 5, "end": 16, "label": "DRUG", "text": "Amoxicillin"}]}
+{"text": "Is Azithromycin effective for atypical pneumonia?", "entities": [{"start": 3, "end": 15, "label": "DRUG", "text": "Azithromycin"}]}
+{"text": "Can Doxycycline be taken with dairy products?", "entities": [{"start": 4, "end": 15, "label": "DRUG", "text": "Doxycycline"}]}
+{"text": "What is the dose of Ciprofloxacin for urinary tract infection?", "entities": [{"start": 20, "end": 33, "label": "DRUG", "text": "Ciprofloxacin"}]}
+{"text": "Is Gentamicin nephrotoxic at high doses?", "entities": [{"start": 3, "end": 13, "label": "DRUG", "text": "Gentamicin"}]}
+{"text": "What monitoring is needed for Vancomycin?", "entities": [{"start": 30, "end": 40, "label": "DRUG", "text": "Vancomycin"}]}
+{"text": "Can Fluconazole be used for Candida oesophagitis?", "entities": [{"start": 4, "end": 15, "label": "DRUG", "text": "Fluconazole"}]}
+{"text": "Is Itraconazole available in liquid form?", "entities": [{"start": 3, "end": 15, "label": "DRUG", "text": "Itraconazole"}]}
+{"text": "Does Aciclovir require dose reduction in renal failure?", "entities": [{"start": 5, "end": 14, "label": "DRUG", "text": "Aciclovir"}]}
+{"text": "Can Oseltamivir be given prophylactically for influenza?", "entities": [{"start": 4, "end": 15, "label": "DRUG", "text": "Oseltamivir"}]}
+{"text": "What is the recommended dose of Donepezil for mild dementia?", "entities": [{"start": 32, "end": 41, "label": "DRUG", "text": "Donepezil"}]}
+{"text": "Is Rivastigmine available as a patch?", "entities": [{"start": 3, "end": 15, "label": "DRUG", "text": "Rivastigmine"}]}
+{"text": "Can Memantine be combined with Donepezil?", "entities": [{"start": 4, "end": 13, "label": "DRUG", "text": "Memantine"}, {"start": 31, "end": 40, "label": "DRUG", "text": "Donepezil"}]}
+{"text": "Does Haloperidol cause extrapyramidal side effects?", "entities": [{"start": 5, "end": 16, "label": "DRUG", "text": "Haloperidol"}]}
+{"text": "Is Risperidone appropriate for elderly patients with dementia?", "entities": [{"start": 3, "end": 14, "label": "DRUG", "text": "Risperidone"}]}
+{"text": "What is the starting dose of Quetiapine for bipolar disorder?", "entities": [{"start": 29, "end": 39, "label": "DRUG", "text": "Quetiapine"}]}
+{"text": "Can Olanzapine be given intramuscularly?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Olanzapine"}]}
+{"text": "Is Sertraline safe in hepatic impairment?", "entities": [{"start": 3, "end": 13, "label": "DRUG", "text": "Sertraline"}]}
+{"text": "Does Fluoxetine interact with tramadol?", "entities": [{"start": 5, "end": 15, "label": "DRUG", "text": "Fluoxetine"}]}
+{"text": "What is the usual dose of Escitalopram for depression?", "entities": [{"start": 26, "end": 38, "label": "DRUG", "text": "Escitalopram"}]}
+{"text": "Can Venlafaxine cause hypertension at higher doses?", "entities": [{"start": 4, "end": 15, "label": "DRUG", "text": "Venlafaxine"}]}
+{"text": "Is Mirtazapine sedating at low doses?", "entities": [{"start": 3, "end": 14, "label": "DRUG", "text": "Mirtazapine"}]}
+{"text": "Does Duloxetine help with neuropathic pain?", "entities": [{"start": 5, "end": 15, "label": "DRUG", "text": "Duloxetine"}]}
+{"text": "Can Pregabalin be used for generalised anxiety disorder?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Pregabalin"}]}
+{"text": "Is Gabapentin renally cleared?", "entities": [{"start": 3, "end": 13, "label": "DRUG", "text": "Gabapentin"}]}
+{"text": "What is the therapeutic range for Carbamazepine?", "entities": [{"start": 34, "end": 47, "label": "DRUG", "text": "Carbamazepine"}]}
+{"text": "Does Valproate cause neural tube defects?", "entities": [{"start": 5, "end": 14, "label": "DRUG", "text": "Valproate"}]}
+{"text": "Can Levetiracetam be used as monotherapy for focal seizures?", "entities": [{"start": 4, "end": 17, "label": "DRUG", "text": "Levetiracetam"}]}
+{"text": "Is Phenytoin still used for status epilepticus?", "entities": [{"start": 3, "end": 12, "label": "DRUG", "text": "Phenytoin"}]}
+{"text": "What is the dose of Lamotrigine for epilepsy?", "entities": [{"start": 20, "end": 31, "label": "DRUG", "text": "Lamotrigine"}]}
+{"text": "Can Topiramate cause cognitive side effects?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Topiramate"}]}
+{"text": "Is Allopurinol used for acute gout attacks?", "entities": [{"start": 3, "end": 14, "label": "DRUG", "text": "Allopurinol"}]}
+{"text": "Does Colchicine interact with statins?", "entities": [{"start": 5, "end": 15, "label": "DRUG", "text": "Colchicine"}]}
+{"text": "What are the renal precautions for Methotrexate?", "entities": [{"start": 35, "end": 47, "label": "DRUG", "text": "Methotrexate"}]}
+{"text": "Can Hydroxychloroquine cause retinal toxicity?", "entities": [{"start": 4, "end": 22, "label": "DRUG", "text": "Hydroxychloroquine"}]}
+{"text": "Is Sulfasalazine used for rheumatoid arthritis?", "entities": [{"start": 3, "end": 16, "label": "DRUG", "text": "Sulfasalazine"}]}
+{"text": "Does Adalimumab increase infection risk?", "entities": [{"start": 5, "end": 15, "label": "DRUG", "text": "Adalimumab"}]}
+{"text": "Can Etanercept be used in psoriatic arthritis?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Etanercept"}]}
+{"text": "What blood tests are needed before starting Infliximab?", "entities": [{"start": 44, "end": 54, "label": "DRUG", "text": "Infliximab"}]}
+{"text": "Is Insulin Injection Soluble used for diabetic ketoacidosis?", "entities": [{"start": 3, "end": 28, "label": "DRUG", "text": "Insulin Injection Soluble"}]}
+{"text": "Can Biphasic Isophane Insulin be given twice daily?", "entities": [{"start": 4, "end": 29, "label": "DRUG", "text": "Biphasic Isophane Insulin"}]}
+{"text": "What is the role of Glibenclamide + Metformin Hydrochloride (Sustained Release) in type 2 diabetes?", "entities": [{"start": 20, "end": 79, "label": "DRUG", "text": "Glibenclamide + Metformin Hydrochloride (Sustained Release)"}]}
+{"text": "Is Ramipril + Amlodipine available as a fixed-dose combination?", "entities": [{"start": 3, "end": 24, "label": "DRUG", "text": "Ramipril + Amlodipine"}]}
+{"text": "Can Telmisartan + Amlodipine be used in hypertension?", "entities": [{"start": 4, "end": 28, "label": "DRUG", "text": "Telmisartan + Amlodipine"}]}
+{"text": "What is the dose of Frusemide + Spironolactone in fluid overload?", "entities": [{"start": 20, "end": 46, "label": "DRUG", "text": "Frusemide + Spironolactone"}]}
+{"text": "Is Metformin Hydrochloride (SR) + Glimepiride + Voglibose appropriate for elderly diabetics?", "entities": [{"start": 3, "end": 57, "label": "DRUG", "text": "Metformin Hydrochloride (SR) + Glimepiride + Voglibose"}]}
+{"text": "Can Ramipril + Hydrochlorothiazide be used in diabetic nephropathy?", "entities": [{"start": 4, "end": 34, "label": "DRUG", "text": "Ramipril + Hydrochlorothiazide"}]}
+{"text": "Does Telmisartan + Amlodipine + Hydrochlorothiazide provide better blood pressure control?", "entities": [{"start": 5, "end": 51, "label": "DRUG", "text": "Telmisartan + Amlodipine + Hydrochlorothiazide"}]}
+{"text": "What is the indication for Insulin Glargine + Lixisenatide?", "entities": [{"start": 27, "end": 58, "label": "DRUG", "text": "Insulin Glargine + Lixisenatide"}]}
+{"text": "Is Alglucosidase Alfa used for glycogen storage disease?", "entities": [{"start": 3, "end": 21, "label": "DRUG", "text": "Alglucosidase Alfa"}]}
+{"text": "Can Hylan G-F 20 be injected intra-articularly?", "entities": [{"start": 4, "end": 16, "label": "DRUG", "text": "Hylan G-F 20"}]}
+{"text": "What are the indications for Imiglucerase?", "entities": [{"start": 29, "end": 41, "label": "DRUG", "text": "Imiglucerase"}]}
+{"text": "Is Velaglucerase Alfa an enzyme replacement therapy?", "entities": [{"start": 3, "end": 21, "label": "DRUG", "text": "Velaglucerase Alfa"}]}
+{"text": "Can Agalsidase Beta be used for Fabry disease?", "entities": [{"start": 4, "end": 19, "label": "DRUG", "text": "Agalsidase Beta"}]}
+{"text": "Does Laronidase require premedication?", "entities": [{"start": 5, "end": 15, "label": "DRUG", "text": "Laronidase"}]}
+{"text": "Is Idursulfase given intravenously for Hunter syndrome?", "entities": [{"start": 3, "end": 14, "label": "DRUG", "text": "Idursulfase"}]}
+{"text": "What monitoring is required for Galsulfase infusions?", "entities": [{"start": 32, "end": 42, "label": "DRUG", "text": "Galsulfase"}]}
+{"text": "Can Elosulfase Alfa be used in Morquio syndrome?", "entities": [{"start": 4, "end": 19, "label": "DRUG", "text": "Elosulfase Alfa"}]}
+{"text": "Is Sebelipase Alfa hepatotoxic?", "entities": [{"start": 3, "end": 18, "label": "DRUG", "text": "Sebelipase Alfa"}]}
+{"text": "What is the dosing interval for Avelumab?", "entities": [{"start": 32, "end": 40, "label": "DRUG", "text": "Avelumab"}]}
+{"text": "Can Docetaxel cause peripheral neuropathy?", "entities": [{"start": 4, "end": 13, "label": "DRUG", "text": "Docetaxel"}]}
+{"text": "Is Paclitaxel given weekly or three-weekly?", "entities": [{"start": 3, "end": 13, "label": "DRUG", "text": "Paclitaxel"}]}
+{"text": "Does Oxaliplatin cause cold-induced neuropathy?", "entities": [{"start": 5, "end": 16, "label": "DRUG", "text": "Oxaliplatin"}]}
+{"text": "The patient was diagnosed with type 2 diabetes last year.", "entities": [{"start": 31, "end": 46, "label": "DISEASE", "text": "type 2 diabetes"}]}
+{"text": "What are the complications of type 1 diabetes?", "entities": [{"start": 30, "end": 45, "label": "DISEASE", "text": "type 1 diabetes"}]}
+{"text": "She has a long history of hypertension.", "entities": [{"start": 26, "end": 38, "label": "DISEASE", "text": "hypertension"}]}
+{"text": "The patient presents with essential hypertension.", "entities": [{"start": 26, "end": 48, "label": "DISEASE", "text": "essential hypertension"}]}
+{"text": "He was recently diagnosed with heart failure.", "entities": [{"start": 31, "end": 44, "label": "DISEASE", "text": "heart failure"}]}
+{"text": "What is the management of chronic heart failure?", "entities": [{"start": 26, "end": 47, "label": "DISEASE", "text": "chronic heart failure"}]}
+{"text": "She has been living with coronary artery disease for ten years.", "entities": [{"start": 25, "end": 48, "label": "DISEASE", "text": "coronary artery disease"}]}
+{"text": "The patient has a history of myocardial infarction.", "entities": [{"start": 29, "end": 50, "label": "DISEASE", "text": "myocardial infarction"}]}
+{"text": "He was admitted with acute myocardial infarction.", "entities": [{"start": 21, "end": 48, "label": "DISEASE", "text": "acute myocardial infarction"}]}
+{"text": "What drugs are used in stable angina?", "entities": [{"start": 23, "end": 36, "label": "DISEASE", "text": "stable angina"}]}
+{"text": "The patient has atrial fibrillation.", "entities": [{"start": 16, "end": 35, "label": "DISEASE", "text": "atrial fibrillation"}]}
+{"text": "She was referred for management of atrial flutter.", "entities": [{"start": 35, "end": 49, "label": "DISEASE", "text": "atrial flutter"}]}
+{"text": "He has a background of stroke.", "entities": [{"start": 23, "end": 29, "label": "DISEASE", "text": "stroke"}]}
+{"text": "What is the secondary prevention after ischaemic stroke?", "entities": [{"start": 39, "end": 55, "label": "DISEASE", "text": "ischaemic stroke"}]}
+{"text": "She had a transient ischaemic attack last month.", "entities": [{"start": 10, "end": 36, "label": "DISEASE", "text": "transient ischaemic attack"}]}
+{"text": "The patient has peripheral vascular disease.", "entities": [{"start": 16, "end": 43, "label": "DISEASE", "text": "peripheral vascular disease"}]}
+{"text": "He was diagnosed with deep vein thrombosis.", "entities": [{"start": 22, "end": 42, "label": "DISEASE", "text": "deep vein thrombosis"}]}
+{"text": "The patient has a pulmonary embolism.", "entities": [{"start": 18, "end": 36, "label": "DISEASE", "text": "pulmonary embolism"}]}
+{"text": "She has chronic obstructive pulmonary disease.", "entities": [{"start": 8, "end": 45, "label": "DISEASE", "text": "chronic obstructive pulmonary disease"}]}
+{"text": "What inhalers are used for COPD?", "entities": []}
+{"text": "He was admitted with community-acquired pneumonia.", "entities": [{"start": 21, "end": 49, "label": "DISEASE", "text": "community-acquired pneumonia"}]}
+{"text": "She has a history of asthma since childhood.", "entities": [{"start": 21, "end": 27, "label": "DISEASE", "text": "asthma"}]}
+{"text": "The patient has bronchiectasis.", "entities": [{"start": 16, "end": 30, "label": "DISEASE", "text": "bronchiectasis"}]}
+{"text": "What is the treatment for active tuberculosis?", "entities": [{"start": 33, "end": 45, "label": "DISEASE", "text": "tuberculosis"}]}
+{"text": "He has pulmonary fibrosis diagnosed two years ago.", "entities": [{"start": 7, "end": 25, "label": "DISEASE", "text": "pulmonary fibrosis"}]}
+{"text": "The patient has idiopathic pulmonary fibrosis.", "entities": [{"start": 16, "end": 45, "label": "DISEASE", "text": "idiopathic pulmonary fibrosis"}]}
+{"text": "She was diagnosed with gastro-oesophageal reflux disease.", "entities": [{"start": 23, "end": 56, "label": "DISEASE", "text": "gastro-oesophageal reflux disease"}]}
+{"text": "He has peptic ulcer disease.", "entities": [{"start": 7, "end": 27, "label": "DISEASE", "text": "peptic ulcer disease"}]}
+{"text": "What is the triple therapy for Helicobacter pylori?", "entities": [{"start": 31, "end": 50, "label": "DISEASE", "text": "Helicobacter pylori"}]}
+{"text": "She has Crohn disease affecting the terminal ileum.", "entities": [{"start": 8, "end": 21, "label": "DISEASE", "text": "Crohn disease"}]}
+{"text": "He has ulcerative colitis with frequent relapses.", "entities": [{"start": 7, "end": 25, "label": "DISEASE", "text": "ulcerative colitis"}]}
+{"text": "The patient has irritable bowel syndrome.", "entities": [{"start": 16, "end": 40, "label": "DISEASE", "text": "irritable bowel syndrome"}]}
+{"text": "She was diagnosed with coeliac disease.", "entities": [{"start": 23, "end": 38, "label": "DISEASE", "text": "coeliac disease"}]}
+{"text": "He has non-alcoholic fatty liver disease.", "entities": [{"start": 7, "end": 40, "label": "DISEASE", "text": "non-alcoholic fatty liver disease"}]}
+{"text": "The patient has cirrhosis of the liver.", "entities": [{"start": 16, "end": 25, "label": "DISEASE", "text": "cirrhosis"}]}
+{"text": "She has chronic kidney disease stage 3.", "entities": [{"start": 8, "end": 30, "label": "DISEASE", "text": "chronic kidney disease"}]}
+{"text": "What is the management of end-stage renal disease?", "entities": [{"start": 26, "end": 49, "label": "DISEASE", "text": "end-stage renal disease"}]}
+{"text": "He has nephrotic syndrome.", "entities": [{"start": 7, "end": 25, "label": "DISEASE", "text": "nephrotic syndrome"}]}
+{"text": "She has systemic lupus erythematosus.", "entities": [{"start": 8, "end": 36, "label": "DISEASE", "text": "systemic lupus erythematosus"}]}
+{"text": "He was diagnosed with ankylosing spondylitis.", "entities": [{"start": 22, "end": 44, "label": "DISEASE", "text": "ankylosing spondylitis"}]}
+{"text": "The patient has psoriatic arthritis.", "entities": [{"start": 16, "end": 35, "label": "DISEASE", "text": "psoriatic arthritis"}]}
+{"text": "She has gout with recurrent attacks.", "entities": [{"start": 8, "end": 12, "label": "DISEASE", "text": "gout"}]}
+{"text": "What is the management of osteoporosis in men?", "entities": [{"start": 26, "end": 38, "label": "DISEASE", "text": "osteoporosis"}]}
+{"text": "He has hypothyroidism.", "entities": [{"start": 7, "end": 21, "label": "DISEASE", "text": "hypothyroidism"}]}
+{"text": "The patient was diagnosed with hyperthyroidism.", "entities": [{"start": 31, "end": 46, "label": "DISEASE", "text": "hyperthyroidism"}]}
+{"text": "She has Graves disease.", "entities": [{"start": 8, "end": 22, "label": "DISEASE", "text": "Graves disease"}]}
+{"text": "He has Addison disease.", "entities": [{"start": 7, "end": 22, "label": "DISEASE", "text": "Addison disease"}]}
+{"text": "The patient has Cushing syndrome.", "entities": [{"start": 16, "end": 32, "label": "DISEASE", "text": "Cushing syndrome"}]}
+{"text": "He has multiple sclerosis relapsing remitting type.", "entities": [{"start": 7, "end": 25, "label": "DISEASE", "text": "multiple sclerosis"}]}
+{"text": "He has dementia with Lewy bodies.", "entities": [{"start": 7, "end": 32, "label": "DISEASE", "text": "dementia with Lewy bodies"}]}
+{"text": "What drugs are used in epilepsy?", "entities": [{"start": 23, "end": 31, "label": "DISEASE", "text": "epilepsy"}]}
+{"text": "The patient has focal epilepsy.", "entities": [{"start": 16, "end": 30, "label": "DISEASE", "text": "focal epilepsy"}]}
+{"text": "She has generalised epilepsy.", "entities": [{"start": 8, "end": 28, "label": "DISEASE", "text": "generalised epilepsy"}]}
+{"text": "He was admitted with status epilepticus.", "entities": [{"start": 21, "end": 39, "label": "DISEASE", "text": "status epilepticus"}]}
+{"text": "The patient has major depressive disorder.", "entities": [{"start": 16, "end": 41, "label": "DISEASE", "text": "major depressive disorder"}]}
+{"text": "She was diagnosed with bipolar disorder.", "entities": [{"start": 23, "end": 39, "label": "DISEASE", "text": "bipolar disorder"}]}
+{"text": "He has generalised anxiety disorder.", "entities": [{"start": 7, "end": 35, "label": "DISEASE", "text": "generalised anxiety disorder"}]}
+{"text": "The patient has schizophrenia.", "entities": [{"start": 16, "end": 29, "label": "DISEASE", "text": "schizophrenia"}]}
+{"text": "She has obsessive-compulsive disorder.", "entities": [{"start": 8, "end": 37, "label": "DISEASE", "text": "obsessive-compulsive disorder"}]}
+{"text": "He was diagnosed with post-traumatic stress disorder.", "entities": [{"start": 22, "end": 52, "label": "DISEASE", "text": "post-traumatic stress disorder"}]}
+{"text": "The patient has psoriasis.", "entities": [{"start": 16, "end": 25, "label": "DISEASE", "text": "psoriasis"}]}
+{"text": "She has atopic dermatitis.", "entities": [{"start": 8, "end": 25, "label": "DISEASE", "text": "atopic dermatitis"}]}
+{"text": "He has acne vulgaris.", "entities": [{"start": 7, "end": 20, "label": "DISEASE", "text": "acne vulgaris"}]}
+{"text": "The patient has non-small cell lung cancer.", "entities": [{"start": 16, "end": 42, "label": "DISEASE", "text": "non-small cell lung cancer"}]}
+{"text": "She was diagnosed with breast cancer.", "entities": [{"start": 23, "end": 36, "label": "DISEASE", "text": "breast cancer"}]}
+{"text": "He has colorectal cancer.", "entities": [{"start": 7, "end": 24, "label": "DISEASE", "text": "colorectal cancer"}]}
+{"text": "The patient has prostate cancer.", "entities": [{"start": 16, "end": 31, "label": "DISEASE", "text": "prostate cancer"}]}
+{"text": "She has ovarian cancer.", "entities": [{"start": 8, "end": 22, "label": "DISEASE", "text": "ovarian cancer"}]}
+{"text": "He was diagnosed with chronic lymphocytic leukaemia.", "entities": [{"start": 22, "end": 51, "label": "DISEASE", "text": "chronic lymphocytic leukaemia"}]}
+{"text": "The patient has diffuse large B-cell lymphoma.", "entities": [{"start": 16, "end": 45, "label": "DISEASE", "text": "diffuse large B-cell lymphoma"}]}
+{"text": "She has multiple myeloma.", "entities": [{"start": 8, "end": 24, "label": "DISEASE", "text": "multiple myeloma"}]}
+{"text": "He was diagnosed with Gaucher disease type 1.", "entities": [{"start": 22, "end": 37, "label": "DISEASE", "text": "Gaucher disease"}]}
+{"text": "The patient has Fabry disease.", "entities": [{"start": 16, "end": 29, "label": "DISEASE", "text": "Fabry disease"}]}
+{"text": "She has Pompe disease.", "entities": [{"start": 8, "end": 21, "label": "DISEASE", "text": "Pompe disease"}]}
+{"text": "He has mucopolysaccharidosis type II.", "entities": [{"start": 7, "end": 36, "label": "DISEASE", "text": "mucopolysaccharidosis type II"}]}
+{"text": "The patient was diagnosed with Hunter syndrome.", "entities": [{"start": 31, "end": 46, "label": "DISEASE", "text": "Hunter syndrome"}]}
+{"text": "She has Morquio syndrome.", "entities": [{"start": 8, "end": 24, "label": "DISEASE", "text": "Morquio syndrome"}]}
+{"text": "He has lysosomal acid lipase deficiency.", "entities": [{"start": 7, "end": 39, "label": "DISEASE", "text": "lysosomal acid lipase deficiency"}]}
+{"text": "The patient was diagnosed with haemophilia A", "entities": [{"start": 31, "end": 44, "label": "DISEASE", "text": "haemophilia A"}]}
+{"text": "She was diagnosed with sickle cell disease.", "entities": [{"start": 23, "end": 42, "label": "DISEASE", "text": "sickle cell disease"}]}
+{"text": "He has thalassaemia.", "entities": [{"start": 7, "end": 19, "label": "DISEASE", "text": "thalassaemia"}]}
+{"text": "The patient has aplastic anaemia.", "entities": [{"start": 16, "end": 32, "label": "DISEASE", "text": "aplastic anaemia"}]}
+{"text": "She has iron deficiency anaemia.", "entities": [{"start": 8, "end": 31, "label": "DISEASE", "text": "iron deficiency anaemia"}]}
+{"text": "He was diagnosed with chronic myeloid leukaemia.", "entities": [{"start": 22, "end": 47, "label": "DISEASE", "text": "chronic myeloid leukaemia"}]}
+{"text": "The patient has acute myeloid leukaemia.", "entities": [{"start": 16, "end": 39, "label": "DISEASE", "text": "acute myeloid leukaemia"}]}
+{"text": "What is the treatment for Wilson disease?", "entities": [{"start": 26, "end": 40, "label": "DISEASE", "text": "Wilson disease"}]}
+{"text": "She has Paget disease of bone.", "entities": [{"start": 8, "end": 29, "label": "DISEASE", "text": "Paget disease of bone"}]}
+{"text": "He was diagnosed with amyloidosis.", "entities": [{"start": 22, "end": 33, "label": "DISEASE", "text": "amyloidosis"}]}
+{"text": "The patient has sarcoidosis.", "entities": [{"start": 16, "end": 27, "label": "DISEASE", "text": "sarcoidosis"}]}
+{"text": "She has systemic sclerosis.", "entities": [{"start": 8, "end": 26, "label": "DISEASE", "text": "systemic sclerosis"}]}
+{"text": "He was diagnosed with polymyalgia rheumatica.", "entities": [{"start": 22, "end": 44, "label": "DISEASE", "text": "polymyalgia rheumatica"}]}
+{"text": "The patient has giant cell arteritis.", "entities": [{"start": 16, "end": 36, "label": "DISEASE", "text": "giant cell arteritis"}]}
+{"text": "She has Sjögren syndrome.", "entities": [{"start": 8, "end": 24, "label": "DISEASE", "text": "Sjögren syndrome"}]}
+{"text": "He was diagnosed with vasculitis.", "entities": [{"start": 22, "end": 32, "label": "DISEASE", "text": "vasculitis"}]}
+{"text": "The patient has interstitial lung disease.", "entities": [{"start": 16, "end": 41, "label": "DISEASE", "text": "interstitial lung disease"}]}
+{"text": "She has pleural mesothelioma.", "entities": [{"start": 8, "end": 28, "label": "DISEASE", "text": "pleural mesothelioma"}]}
+{"text": "He was diagnosed with bladder cancer.", "entities": [{"start": 22, "end": 36, "label": "DISEASE", "text": "bladder cancer"}]}
+{"text": "The patient has renal cell carcinoma.", "entities": [{"start": 16, "end": 36, "label": "DISEASE", "text": "renal cell carcinoma"}]}
+{"text": "She has hepatocellular carcinoma.", "entities": [{"start": 8, "end": 32, "label": "DISEASE", "text": "hepatocellular carcinoma"}]}
+{"text": "He was diagnosed with pancreatic cancer.", "entities": [{"start": 22, "end": 39, "label": "DISEASE", "text": "pancreatic cancer"}]}
+{"text": "The patient has gastric cancer.", "entities": [{"start": 16, "end": 30, "label": "DISEASE", "text": "gastric cancer"}]}
+{"text": "She was diagnosed with cervical cancer.", "entities": [{"start": 23, "end": 38, "label": "DISEASE", "text": "cervical cancer"}]}
+{"text": "He has oesophageal cancer.", "entities": [{"start": 7, "end": 25, "label": "DISEASE", "text": "oesophageal cancer"}]}
+{"text": "The patient has thyroid cancer.", "entities": [{"start": 16, "end": 30, "label": "DISEASE", "text": "thyroid cancer"}]}
+{"text": "She was diagnosed with meningioma.", "entities": [{"start": 23, "end": 33, "label": "DISEASE", "text": "meningioma"}]}
+{"text": "He has glioblastoma multiforme.", "entities": [{"start": 7, "end": 30, "label": "DISEASE", "text": "glioblastoma multiforme"}]}
+{"text": "The patient has a spinal cord tumour.", "entities": [{"start": 18, "end": 36, "label": "DISEASE", "text": "spinal cord tumour"}]}
+{"text": "She was diagnosed with retinoblastoma.", "entities": [{"start": 23, "end": 37, "label": "DISEASE", "text": "retinoblastoma"}]}
+{"text": "He has neuroblastoma.", "entities": [{"start": 7, "end": 20, "label": "DISEASE", "text": "neuroblastoma"}]}
+{"text": "The patient has Wilms tumour.", "entities": [{"start": 16, "end": 28, "label": "DISEASE", "text": "Wilms tumour"}]}
+{"text": "She was diagnosed with Hodgkin lymphoma.", "entities": [{"start": 23, "end": 39, "label": "DISEASE", "text": "Hodgkin lymphoma"}]}
+{"text": "He has non-Hodgkin lymphoma.", "entities": [{"start": 7, "end": 27, "label": "DISEASE", "text": "non-Hodgkin lymphoma"}]}
+{"text": "The patient reports severe headache.", "entities": [{"start": 27, "end": 35, "label": "SYMPTOM", "text": "headache"}]}
+{"text": "She complains of a persistent headache.", "entities": [{"start": 30, "end": 38, "label": "SYMPTOM", "text": "headache"}]}
+{"text": "He has had nausea for three days.", "entities": [{"start": 11, "end": 17, "label": "SYMPTOM", "text": "nausea"}]}
+{"text": "The patient reports nausea and dizziness.", "entities": [{"start": 20, "end": 26, "label": "SYMPTOM", "text": "nausea"}, {"start": 31, "end": 40, "label": "SYMPTOM", "text": "dizziness"}]}
+{"text": "She has been experiencing vomiting since yesterday.", "entities": [{"start": 26, "end": 34, "label": "SYMPTOM", "text": "vomiting"}]}
+{"text": "He complains of vomiting after every meal.", "entities": [{"start": 16, "end": 24, "label": "SYMPTOM", "text": "vomiting"}]}
+{"text": "The patient reports shortness of breath on exertion.", "entities": [{"start": 20, "end": 39, "label": "SYMPTOM", "text": "shortness of breath"}]}
+{"text": "She has been experiencing dyspnea at rest.", "entities": [{"start": 26, "end": 33, "label": "SYMPTOM", "text": "dyspnea"}]}
+{"text": "He reports chest pain radiating to the left arm.", "entities": [{"start": 11, "end": 21, "label": "SYMPTOM", "text": "chest pain"}]}
+{"text": "The patient has central chest pain.", "entities": [{"start": 24, "end": 34, "label": "SYMPTOM", "text": "chest pain"}]}
+{"text": "She reports palpitations at night.", "entities": [{"start": 12, "end": 24, "label": "SYMPTOM", "text": "palpitations"}]}
+{"text": "He is experiencing palpitations after exercise.", "entities": [{"start": 19, "end": 31, "label": "SYMPTOM", "text": "palpitations"}]}
+{"text": "The patient reports fatigue and weakness.", "entities": [{"start": 20, "end": 27, "label": "SYMPTOM", "text": "fatigue"}, {"start": 32, "end": 40, "label": "SYMPTOM", "text": "weakness"}]}
+{"text": "She has been feeling fatigued for weeks.", "entities": [{"start": 21, "end": 29, "label": "SYMPTOM", "text": "fatigued"}]}
+{"text": "He reports swelling in both ankles.", "entities": [{"start": 11, "end": 19, "label": "SYMPTOM", "text": "swelling"}]}
+{"text": "The patient has bilateral leg swelling.", "entities": [{"start": 30, "end": 38, "label": "SYMPTOM", "text": "swelling"}]}
+{"text": "She reports blurred vision.", "entities": [{"start": 12, "end": 26, "label": "SYMPTOM", "text": "blurred vision"}]}
+{"text": "He has had blurred vision after starting the new medication.", "entities": [{"start": 11, "end": 25, "label": "SYMPTOM", "text": "blurred vision"}]}
+{"text": "The patient reports tingling in the fingers.", "entities": [{"start": 20, "end": 28, "label": "SYMPTOM", "text": "tingling"}]}
+{"text": "She is experiencing numbness in her feet.", "entities": [{"start": 20, "end": 28, "label": "SYMPTOM", "text": "numbness"}]}
+{"text": "He reports burning pain in the lower limbs.", "entities": [{"start": 11, "end": 23, "label": "SYMPTOM", "text": "burning pain"}]}
+{"text": "The patient has itching all over the body.", "entities": [{"start": 16, "end": 23, "label": "SYMPTOM", "text": "itching"}]}
+{"text": "She reports a skin rash on the trunk.", "entities": [{"start": 14, "end": 23, "label": "SYMPTOM", "text": "skin rash"}]}
+{"text": "He has had a dry cough for six weeks.", "entities": [{"start": 13, "end": 22, "label": "SYMPTOM", "text": "dry cough"}]}
+{"text": "The patient reports a productive cough with green sputum.", "entities": [{"start": 22, "end": 38, "label": "SYMPTOM", "text": "productive cough"}]}
+{"text": "She is experiencing haemoptysis.", "entities": [{"start": 20, "end": 31, "label": "SYMPTOM", "text": "haemoptysis"}]}
+{"text": "He reports difficulty swallowing.", "entities": [{"start": 11, "end": 32, "label": "SYMPTOM", "text": "difficulty swallowing"}]}
+{"text": "The patient has abdominal pain.", "entities": [{"start": 16, "end": 30, "label": "SYMPTOM", "text": "abdominal pain"}]}
+{"text": "She is experiencing severe abdominal cramping.", "entities": [{"start": 27, "end": 45, "label": "SYMPTOM", "text": "abdominal cramping"}]}
+{"text": "He reports bloating after meals.", "entities": [{"start": 11, "end": 19, "label": "SYMPTOM", "text": "bloating"}]}
+{"text": "The patient has diarrhoea for five days.", "entities": [{"start": 16, "end": 25, "label": "SYMPTOM", "text": "diarrhoea"}]}
+{"text": "She reports bloody diarrhoea.", "entities": [{"start": 12, "end": 28, "label": "SYMPTOM", "text": "bloody diarrhoea"}]}
+{"text": "He is experiencing constipation.", "entities": [{"start": 19, "end": 31, "label": "SYMPTOM", "text": "constipation"}]}
+{"text": "The patient reports loss of appetite.", "entities": [{"start": 20, "end": 36, "label": "SYMPTOM", "text": "loss of appetite"}]}
+{"text": "She has had significant weight loss.", "entities": [{"start": 24, "end": 35, "label": "SYMPTOM", "text": "weight loss"}]}
+{"text": "He reports night sweats.", "entities": [{"start": 11, "end": 23, "label": "SYMPTOM", "text": "night sweats"}]}
+{"text": "The patient has fever.", "entities": [{"start": 16, "end": 21, "label": "SYMPTOM", "text": "fever"}]}
+{"text": "She is experiencing chills and fever.", "entities": [{"start": 20, "end": 26, "label": "SYMPTOM", "text": "chills"}, {"start": 31, "end": 36, "label": "SYMPTOM", "text": "fever"}]}
+{"text": "He reports joint pain and swelling.", "entities": [{"start": 11, "end": 21, "label": "SYMPTOM", "text": "joint pain"}, {"start": 26, "end": 34, "label": "SYMPTOM", "text": "swelling"}]}
+{"text": "The patient has morning stiffness.", "entities": [{"start": 16, "end": 33, "label": "SYMPTOM", "text": "morning stiffness"}]}
+{"text": "She is experiencing back pain.", "entities": [{"start": 20, "end": 29, "label": "SYMPTOM", "text": "back pain"}]}
+{"text": "He reports lower back pain radiating to the leg.", "entities": [{"start": 11, "end": 26, "label": "SYMPTOM", "text": "lower back pain"}]}
+{"text": "The patient has neck stiffness.", "entities": [{"start": 16, "end": 30, "label": "SYMPTOM", "text": "neck stiffness"}]}
+{"text": "She reports photophobia.", "entities": [{"start": 12, "end": 23, "label": "SYMPTOM", "text": "photophobia"}]}
+{"text": "He is experiencing confusion.", "entities": [{"start": 19, "end": 28, "label": "SYMPTOM", "text": "confusion"}]}
+{"text": "The patient has memory loss.", "entities": [{"start": 16, "end": 27, "label": "SYMPTOM", "text": "memory loss"}]}
+{"text": "She reports difficulty concentrating.", "entities": [{"start": 12, "end": 36, "label": "SYMPTOM", "text": "difficulty concentrating"}]}
+{"text": "He has had tremors in his hands.", "entities": [{"start": 11, "end": 18, "label": "SYMPTOM", "text": "tremors"}]}
+{"text": "The patient is experiencing muscle cramps.", "entities": [{"start": 28, "end": 41, "label": "SYMPTOM", "text": "muscle cramps"}]}
+{"text": "She reports muscle weakness in her legs.", "entities": [{"start": 12, "end": 27, "label": "SYMPTOM", "text": "muscle weakness"}]}
+{"text": "He has had a sore throat for two days.", "entities": [{"start": 13, "end": 24, "label": "SYMPTOM", "text": "sore throat"}]}
+{"text": "The patient reports runny nose and sneezing.", "entities": [{"start": 20, "end": 30, "label": "SYMPTOM", "text": "runny nose"}, {"start": 35, "end": 43, "label": "SYMPTOM", "text": "sneezing"}]}
+{"text": "She is experiencing ear pain.", "entities": [{"start": 20, "end": 28, "label": "SYMPTOM", "text": "ear pain"}]}
+{"text": "He reports ringing in both ears.", "entities": [{"start": 11, "end": 31, "label": "SYMPTOM", "text": "ringing in both ears"}]}
+{"text": "The patient has difficulty sleeping.", "entities": [{"start": 16, "end": 35, "label": "SYMPTOM", "text": "difficulty sleeping"}]}
+{"text": "She reports excessive daytime sleepiness.", "entities": [{"start": 12, "end": 40, "label": "SYMPTOM", "text": "excessive daytime sleepiness"}]}
+{"text": "He is experiencing hot flushes.", "entities": [{"start": 19, "end": 30, "label": "SYMPTOM", "text": "hot flushes"}]}
+{"text": "The patient reports urinary frequency.", "entities": [{"start": 20, "end": 37, "label": "SYMPTOM", "text": "urinary frequency"}]}
+{"text": "She has urinary urgency.", "entities": [{"start": 8, "end": 23, "label": "SYMPTOM", "text": "urinary urgency"}]}
+{"text": "He reports dysuria.", "entities": [{"start": 11, "end": 18, "label": "SYMPTOM", "text": "dysuria"}]}
+{"text": "The patient has haematuria.", "entities": [{"start": 16, "end": 26, "label": "SYMPTOM", "text": "haematuria"}]}
+{"text": "She is experiencing urinary incontinence.", "entities": [{"start": 20, "end": 40, "label": "SYMPTOM", "text": "urinary incontinence"}]}
+{"text": "He reports yellow discolouration of the skin.", "entities": [{"start": 11, "end": 44, "label": "SYMPTOM", "text": "yellow discolouration of the skin"}]}
+{"text": "The patient has jaundice.", "entities": [{"start": 16, "end": 24, "label": "SYMPTOM", "text": "jaundice"}]}
+{"text": "She reports dark urine.", "entities": [{"start": 12, "end": 22, "label": "SYMPTOM", "text": "dark urine"}]}
+{"text": "He has pale stools.", "entities": [{"start": 7, "end": 18, "label": "SYMPTOM", "text": "pale stools"}]}
+{"text": "The patient is experiencing epistaxis.", "entities": [{"start": 28, "end": 37, "label": "SYMPTOM", "text": "epistaxis"}]}
+{"text": "She reports easy bruising.", "entities": [{"start": 12, "end": 25, "label": "SYMPTOM", "text": "easy bruising"}]}
+{"text": "He has had recurrent nosebleeds.", "entities": [{"start": 21, "end": 31, "label": "SYMPTOM", "text": "nosebleeds"}]}
+{"text": "The patient reports acne on the face.", "entities": [{"start": 20, "end": 24, "label": "SYMPTOM", "text": "acne"}]}
+{"text": "She is experiencing hair loss.", "entities": [{"start": 20, "end": 29, "label": "SYMPTOM", "text": "hair loss"}]}
+{"text": "He reports excessive thirst.", "entities": [{"start": 11, "end": 27, "label": "SYMPTOM", "text": "excessive thirst"}]}
+{"text": "The patient has excessive urination.", "entities": [{"start": 16, "end": 35, "label": "SYMPTOM", "text": "excessive urination"}]}
+{"text": "She reports excessive hunger.", "entities": [{"start": 12, "end": 28, "label": "SYMPTOM", "text": "excessive hunger"}]}
+{"text": "He is experiencing double vision.", "entities": [{"start": 19, "end": 32, "label": "SYMPTOM", "text": "double vision"}]}
+{"text": "The patient reports loss of balance.", "entities": [{"start": 20, "end": 35, "label": "SYMPTOM", "text": "loss of balance"}]}
+{"text": "She has had falls recently.", "entities": [{"start": 12, "end": 17, "label": "SYMPTOM", "text": "falls"}]}
+{"text": "He is experiencing vertigo.", "entities": [{"start": 19, "end": 26, "label": "SYMPTOM", "text": "vertigo"}]}
+{"text": "The patient reports generalised weakness.", "entities": [{"start": 20, "end": 40, "label": "SYMPTOM", "text": "generalised weakness"}]}
+{"text": "She is experiencing profound fatigue.", "entities": [{"start": 29, "end": 36, "label": "SYMPTOM", "text": "fatigue"}]}
+{"text": "He reports difficulty walking.", "entities": [{"start": 11, "end": 29, "label": "SYMPTOM", "text": "difficulty walking"}]}
+{"text": "The patient has swollen lymph nodes.", "entities": [{"start": 16, "end": 35, "label": "SYMPTOM", "text": "swollen lymph nodes"}]}
+{"text": "She reports a lump in her breast.", "entities": [{"start": 14, "end": 18, "label": "SYMPTOM", "text": "lump"}]}
+{"text": "He is experiencing hiccups that won't stop.", "entities": [{"start": 19, "end": 26, "label": "SYMPTOM", "text": "hiccups"}]}
+{"text": "The patient reports belching.", "entities": [{"start": 20, "end": 28, "label": "SYMPTOM", "text": "belching"}]}
+{"text": "She has heartburn.", "entities": [{"start": 8, "end": 17, "label": "SYMPTOM", "text": "heartburn"}]}
+{"text": "He reports acid reflux symptoms.", "entities": [{"start": 11, "end": 22, "label": "SYMPTOM", "text": "acid reflux"}]}
+{"text": "The patient is experiencing flank pain.", "entities": [{"start": 28, "end": 38, "label": "SYMPTOM", "text": "flank pain"}]}
+{"text": "She has groin pain.", "entities": [{"start": 8, "end": 18, "label": "SYMPTOM", "text": "groin pain"}]}
+{"text": "He reports penile discharge.", "entities": [{"start": 11, "end": 27, "label": "SYMPTOM", "text": "penile discharge"}]}
+{"text": "The patient has vaginal discharge.", "entities": [{"start": 16, "end": 33, "label": "SYMPTOM", "text": "vaginal discharge"}]}
+{"text": "She is experiencing pelvic pain.", "entities": [{"start": 20, "end": 31, "label": "SYMPTOM", "text": "pelvic pain"}]}
+{"text": "He reports testicular pain.", "entities": [{"start": 11, "end": 26, "label": "SYMPTOM", "text": "testicular pain"}]}
+{"text": "The patient is experiencing facial flushing.", "entities": [{"start": 28, "end": 43, "label": "SYMPTOM", "text": "facial flushing"}]}
+{"text": "She reports sweating profusely.", "entities": [{"start": 12, "end": 20, "label": "SYMPTOM", "text": "sweating"}]}
+{"text": "He has had hirsutism.", "entities": [{"start": 11, "end": 20, "label": "SYMPTOM", "text": "hirsutism"}]}
+{"text": "The patient reports hand tremor.", "entities": [{"start": 20, "end": 31, "label": "SYMPTOM", "text": "hand tremor"}]}
+{"text": "She is experiencing bradykinesia.", "entities": [{"start": 20, "end": 32, "label": "SYMPTOM", "text": "bradykinesia"}]}
+{"text": "He reports rigidity in his limbs.", "entities": [{"start": 11, "end": 19, "label": "SYMPTOM", "text": "rigidity"}]}
+{"text": "The patient has periorbital oedema.", "entities": [{"start": 16, "end": 34, "label": "SYMPTOM", "text": "periorbital oedema"}]}
+{"text": "She is experiencing ankle oedema.", "entities": [{"start": 20, "end": 32, "label": "SYMPTOM", "text": "ankle oedema"}]}
+{"text": "He reports exertional dyspnea.", "entities": [{"start": 11, "end": 29, "label": "SYMPTOM", "text": "exertional dyspnea"}]}
+{"text": "The patient has orthopnoea.", "entities": [{"start": 16, "end": 26, "label": "SYMPTOM", "text": "orthopnoea"}]}
+{"text": "She is experiencing paroxysmal nocturnal dyspnoea.", "entities": [{"start": 20, "end": 49, "label": "SYMPTOM", "text": "paroxysmal nocturnal dyspnoea"}]}
+{"text": "He reports coughing up blood.", "entities": [{"start": 11, "end": 28, "label": "SYMPTOM", "text": "coughing up blood"}]}
+{"text": "The patient has sudden onset of weakness on one side.", "entities": [{"start": 32, "end": 40, "label": "SYMPTOM", "text": "weakness"}]}
+{"text": "She reports slurred speech.", "entities": [{"start": 12, "end": 26, "label": "SYMPTOM", "text": "slurred speech"}]}
+{"text": "He is experiencing facial drooping.", "entities": [{"start": 19, "end": 34, "label": "SYMPTOM", "text": "facial drooping"}]}
+{"text": "The patient reports a squeezing sensation in the chest.", "entities": [{"start": 22, "end": 54, "label": "SYMPTOM", "text": "squeezing sensation in the chest"}]}
+{"text": "She has been having panic attacks.", "entities": [{"start": 20, "end": 33, "label": "SYMPTOM", "text": "panic attacks"}]}
+{"text": "He reports excessive worrying.", "entities": [{"start": 11, "end": 29, "label": "SYMPTOM", "text": "excessive worrying"}]}
+{"text": "The patient has insomnia.", "entities": [{"start": 16, "end": 24, "label": "SYMPTOM", "text": "insomnia"}]}
+{"text": "She is experiencing hypersomnia.", "entities": [{"start": 20, "end": 31, "label": "SYMPTOM", "text": "hypersomnia"}]}
+{"text": "He reports mood swings.", "entities": [{"start": 11, "end": 22, "label": "SYMPTOM", "text": "mood swings"}]}
+{"text": "The patient has irritability.", "entities": [{"start": 16, "end": 28, "label": "SYMPTOM", "text": "irritability"}]}
+{"text": "She is experiencing social withdrawal.", "entities": [{"start": 20, "end": 37, "label": "SYMPTOM", "text": "social withdrawal"}]}
+{"text": "He reports hallucinations.", "entities": [{"start": 11, "end": 25, "label": "SYMPTOM", "text": "hallucinations"}]}
+{"text": "The patient has delusions.", "entities": [{"start": 16, "end": 25, "label": "SYMPTOM", "text": "delusions"}]}
+{"text": "She is experiencing cold intolerance.", "entities": [{"start": 20, "end": 36, "label": "SYMPTOM", "text": "cold intolerance"}]}
+{"text": "He reports heat intolerance.", "entities": [{"start": 11, "end": 27, "label": "SYMPTOM", "text": "heat intolerance"}]}
+{"text": "The patient has tachycardia.", "entities": [{"start": 16, "end": 27, "label": "SYMPTOM", "text": "tachycardia"}]}
+{"text": "She is experiencing bradycardia.", "entities": [{"start": 20, "end": 31, "label": "SYMPTOM", "text": "bradycardia"}]}
+{"text": "He reports intermittent claudication.", "entities": [{"start": 11, "end": 36, "label": "SYMPTOM", "text": "intermittent claudication"}]}
+{"text": "The patient is currently pregnant.", "entities": [{"start": 25, "end": 33, "label": "CONDITION", "text": "pregnant"}]}
+{"text": "She is in the first trimester of pregnancy.", "entities": [{"start": 33, "end": 42, "label": "CONDITION", "text": "pregnancy"}]}
+{"text": "He has mild renal impairment.", "entities": [{"start": 7, "end": 28, "label": "CONDITION", "text": "mild renal impairment"}]}
+{"text": "The patient has moderate renal impairment.", "entities": [{"start": 16, "end": 41, "label": "CONDITION", "text": "moderate renal impairment"}]}
+{"text": "She has severe renal impairment.", "entities": [{"start": 8, "end": 31, "label": "CONDITION", "text": "severe renal impairment"}]}
+{"text": "He is on haemodialysis.", "entities": [{"start": 9, "end": 22, "label": "CONDITION", "text": "haemodialysis"}]}
+{"text": "The patient has chronic renal failure.", "entities": [{"start": 16, "end": 37, "label": "CONDITION", "text": "chronic renal failure"}]}
+{"text": "She has mild hepatic impairment.", "entities": [{"start": 8, "end": 31, "label": "CONDITION", "text": "mild hepatic impairment"}]}
+{"text": "He has moderate hepatic impairment.", "entities": [{"start": 7, "end": 34, "label": "CONDITION", "text": "moderate hepatic impairment"}]}
+{"text": "The patient has severe hepatic impairment.", "entities": [{"start": 16, "end": 41, "label": "CONDITION", "text": "severe hepatic impairment"}]}
+{"text": "She has hepatic dysfunction.", "entities": [{"start": 8, "end": 27, "label": "CONDITION", "text": "hepatic dysfunction"}]}
+{"text": "He is breastfeeding.", "entities": [{"start": 6, "end": 19, "label": "CONDITION", "text": "breastfeeding"}]}
+{"text": "The patient is lactating.", "entities": [{"start": 15, "end": 24, "label": "CONDITION", "text": "lactating"}]}
+{"text": "She is postmenopausal.", "entities": [{"start": 7, "end": 21, "label": "CONDITION", "text": "postmenopausal"}]}
+{"text": "He is an elderly patient.", "entities": []}
+{"text": "The patient has cognitive impairment.", "entities": [{"start": 16, "end": 36, "label": "CONDITION", "text": "cognitive impairment"}]}
+{"text": "She has mild cognitive impairment.", "entities": [{"start": 8, "end": 33, "label": "CONDITION", "text": "mild cognitive impairment"}]}
+{"text": "He has severe cognitive impairment.", "entities": [{"start": 7, "end": 34, "label": "CONDITION", "text": "severe cognitive impairment"}]}
+{"text": "The patient has renal dysfunction.", "entities": [{"start": 16, "end": 33, "label": "CONDITION", "text": "renal dysfunction"}]}
+{"text": "She has end-stage renal failure.", "entities": [{"start": 8, "end": 31, "label": "CONDITION", "text": "end-stage renal failure"}]}
+{"text": "He is on peritoneal dialysis.", "entities": [{"start": 9, "end": 28, "label": "CONDITION", "text": "peritoneal dialysis"}]}
+{"text": "The patient has reduced kidney function.", "entities": [{"start": 16, "end": 39, "label": "CONDITION", "text": "reduced kidney function"}]}
+{"text": "She has impaired renal clearance.", "entities": [{"start": 8, "end": 32, "label": "CONDITION", "text": "impaired renal clearance"}]}
+{"text": "He has liver failure.", "entities": [{"start": 7, "end": 20, "label": "CONDITION", "text": "liver failure"}]}
+{"text": "The patient has acute liver failure.", "entities": [{"start": 16, "end": 35, "label": "CONDITION", "text": "acute liver failure"}]}
+{"text": "She has liver dysfunction.", "entities": [{"start": 8, "end": 25, "label": "CONDITION", "text": "liver dysfunction"}]}
+{"text": "He has hepatic failure.", "entities": [{"start": 7, "end": 22, "label": "CONDITION", "text": "hepatic failure"}]}
+{"text": "The patient is immunocompromised.", "entities": [{"start": 15, "end": 32, "label": "CONDITION", "text": "immunocompromised"}]}
+{"text": "She has immune deficiency.", "entities": [{"start": 8, "end": 25, "label": "CONDITION", "text": "immune deficiency"}]}
+{"text": "He has obesity.", "entities": [{"start": 7, "end": 14, "label": "CONDITION", "text": "obesity"}]}
+{"text": "The patient has morbid obesity.", "entities": [{"start": 16, "end": 30, "label": "CONDITION", "text": "morbid obesity"}]}
+{"text": "She is underweight.", "entities": [{"start": 7, "end": 18, "label": "CONDITION", "text": "underweight"}]}
+{"text": "He has frailty.", "entities": [{"start": 7, "end": 14, "label": "CONDITION", "text": "frailty"}]}
+{"text": "The patient has polycystic ovary syndrome.", "entities": [{"start": 16, "end": 41, "label": "CONDITION", "text": "polycystic ovary syndrome"}]}
+{"text": "She has hypothyroidism as an underlying condition.", "entities": [{"start": 8, "end": 22, "label": "CONDITION", "text": "hypothyroidism"}]}
+{"text": "He has insulin resistance.", "entities": [{"start": 7, "end": 25, "label": "CONDITION", "text": "insulin resistance"}]}
+{"text": "The patient has metabolic syndrome.", "entities": [{"start": 16, "end": 34, "label": "CONDITION", "text": "metabolic syndrome"}]}
+{"text": "She has dyslipidaemia.", "entities": [{"start": 8, "end": 21, "label": "CONDITION", "text": "dyslipidaemia"}]}
+{"text": "He has hyperuricaemia.", "entities": [{"start": 7, "end": 21, "label": "CONDITION", "text": "hyperuricaemia"}]}
+{"text": "The patient is receiving chemotherapy.", "entities": [{"start": 25, "end": 37, "label": "CONDITION", "text": "chemotherapy"}]}
+{"text": "She is post-transplant on immunosuppression.", "entities": [{"start": 26, "end": 43, "label": "CONDITION", "text": "immunosuppression"}]}
+{"text": "He has bone marrow suppression.", "entities": [{"start": 7, "end": 30, "label": "CONDITION", "text": "bone marrow suppression"}]}
+{"text": "The patient is in remission.", "entities": []}
+{"text": "She has reduced left ventricular function.", "entities": [{"start": 8, "end": 41, "label": "CONDITION", "text": "reduced left ventricular function"}]}
+{"text": "He has left ventricular dysfunction.", "entities": [{"start": 7, "end": 35, "label": "CONDITION", "text": "left ventricular dysfunction"}]}
+{"text": "The patient has cardiac failure.", "entities": [{"start": 16, "end": 31, "label": "CONDITION", "text": "cardiac failure"}]}
+{"text": "She is on long-term corticosteroid therapy.", "entities": []}
+{"text": "He has adrenal insufficiency.", "entities": [{"start": 7, "end": 28, "label": "CONDITION", "text": "adrenal insufficiency"}]}
+{"text": "She has hypercalcaemia.", "entities": [{"start": 8, "end": 22, "label": "CONDITION", "text": "hypercalcaemia"}]}
+{"text": "He has hypocalcaemia.", "entities": [{"start": 7, "end": 20, "label": "CONDITION", "text": "hypocalcaemia"}]}
+{"text": "The patient has hyponatraemia.", "entities": [{"start": 16, "end": 29, "label": "CONDITION", "text": "hyponatraemia"}]}
+{"text": "She has hyperkalaemia.", "entities": [{"start": 8, "end": 21, "label": "CONDITION", "text": "hyperkalaemia"}]}
+{"text": "He has hypokalaemia.", "entities": [{"start": 7, "end": 19, "label": "CONDITION", "text": "hypokalaemia"}]}
+{"text": "The patient is in the second trimester.", "entities": [{"start": 22, "end": 38, "label": "CONDITION", "text": "second trimester"}]}
+{"text": "She is in her third trimester.", "entities": [{"start": 14, "end": 29, "label": "CONDITION", "text": "third trimester"}]}
+{"text": "He has a bleeding disorder.", "entities": [{"start": 9, "end": 26, "label": "CONDITION", "text": "bleeding disorder"}]}
+{"text": "The patient has thrombocytopenia.", "entities": [{"start": 16, "end": 32, "label": "CONDITION", "text": "thrombocytopenia"}]}
+{"text": "She has coagulopathy.", "entities": [{"start": 8, "end": 20, "label": "CONDITION", "text": "coagulopathy"}]}
+{"text": "He has neutropenia.", "entities": [{"start": 7, "end": 18, "label": "CONDITION", "text": "neutropenia"}]}
+{"text": "The patient has anaemia.", "entities": [{"start": 16, "end": 23, "label": "CONDITION", "text": "anaemia"}]}
+{"text": "She has severe anaemia.", "entities": [{"start": 8, "end": 22, "label": "CONDITION", "text": "severe anaemia"}]}
+{"text": "He has hypoalbuminaemia.", "entities": [{"start": 7, "end": 23, "label": "CONDITION", "text": "hypoalbuminaemia"}]}
+{"text": "The patient has malnutrition.", "entities": [{"start": 16, "end": 28, "label": "CONDITION", "text": "malnutrition"}]}
+{"text": "She has dehydration.", "entities": [{"start": 8, "end": 19, "label": "CONDITION", "text": "dehydration"}]}
+{"text": "He has electrolyte imbalance.", "entities": [{"start": 7, "end": 28, "label": "CONDITION", "text": "electrolyte imbalance"}]}
+{"text": "The patient is on renal replacement therapy.", "entities": [{"start": 18, "end": 43, "label": "CONDITION", "text": "renal replacement therapy"}]}
+{"text": "She has a pacemaker in situ.", "entities": []}
+{"text": "He has a prosthetic heart valve.", "entities": []}
+{"text": "The patient has reduced hepatic blood flow.", "entities": [{"start": 16, "end": 42, "label": "CONDITION", "text": "reduced hepatic blood flow"}]}
+{"text": "She has portal hypertension.", "entities": [{"start": 8, "end": 27, "label": "CONDITION", "text": "portal hypertension"}]}
+{"text": "He has Child-Pugh class C liver disease.", "entities": []}
+{"text": "The patient is post-splenectomy.", "entities": []}
+{"text": "She has a G6PD deficiency.", "entities": [{"start": 10, "end": 25, "label": "CONDITION", "text": "G6PD deficiency"}]}
+{"text": "He has porphyria.", "entities": [{"start": 7, "end": 16, "label": "CONDITION", "text": "porphyria"}]}
+{"text": "The patient has myasthenia gravis.", "entities": [{"start": 16, "end": 33, "label": "CONDITION", "text": "myasthenia gravis"}]}
+{"text": "She has neonatal jaundice.", "entities": []}
+{"text": "He has neonatal hypoglycaemia.", "entities": []}
+{"text": "The patient has prolonged QT interval.", "entities": [{"start": 16, "end": 37, "label": "CONDITION", "text": "prolonged QT interval"}]}
+{"text": "She has a history of torsades de pointes.", "entities": []}
+{"text": "He has sinus bradycardia.", "entities": [{"start": 7, "end": 24, "label": "CONDITION", "text": "sinus bradycardia"}]}
+{"text": "The patient has atrioventricular block.", "entities": [{"start": 16, "end": 38, "label": "CONDITION", "text": "atrioventricular block"}]}
+{"text": "She has right bundle branch block.", "entities": [{"start": 8, "end": 33, "label": "CONDITION", "text": "right bundle branch block"}]}
+{"text": "He has cardiogenic shock.", "entities": [{"start": 7, "end": 24, "label": "CONDITION", "text": "cardiogenic shock"}]}
+{"text": "The patient has septic shock.", "entities": [{"start": 16, "end": 28, "label": "CONDITION", "text": "septic shock"}]}
+{"text": "She is in intensive care.", "entities": []}
+{"text": "He has multi-organ failure.", "entities": [{"start": 7, "end": 26, "label": "CONDITION", "text": "multi-organ failure"}]}
+{"text": "The patient is mechanically ventilated.", "entities": []}
+{"text": "She is post-operative.", "entities": []}
+{"text": "He has a wound infection.", "entities": []}
+{"text": "The patient has a urinary catheter in situ.", "entities": []}
+{"text": "She has pressure sores.", "entities": []}
+{"text": "He has poor nutritional status.", "entities": [{"start": 7, "end": 30, "label": "CONDITION", "text": "poor nutritional status"}]}
+{"text": "The patient has hypertensive urgency.", "entities": [{"start": 16, "end": 36, "label": "CONDITION", "text": "hypertensive urgency"}]}
+{"text": "She has pre-eclampsia.", "entities": [{"start": 8, "end": 21, "label": "CONDITION", "text": "pre-eclampsia"}]}
+{"text": "He has eclampsia.", "entities": [{"start": 7, "end": 16, "label": "CONDITION", "text": "eclampsia"}]}
+{"text": "The patient has gestational diabetes.", "entities": [{"start": 16, "end": 36, "label": "CONDITION", "text": "gestational diabetes"}]}
+{"text": "She has placenta praevia.", "entities": []}
+{"text": "He has polycythaemia vera.", "entities": [{"start": 7, "end": 25, "label": "CONDITION", "text": "polycythaemia vera"}]}
+{"text": "The patient has essential thrombocythaemia.", "entities": [{"start": 16, "end": 42, "label": "CONDITION", "text": "essential thrombocythaemia"}]}
+{"text": "She has myelofibrosis.", "entities": [{"start": 8, "end": 21, "label": "CONDITION", "text": "myelofibrosis"}]}
+{"text": "He has spinal cord compression.", "entities": [{"start": 7, "end": 30, "label": "CONDITION", "text": "spinal cord compression"}]}
+{"text": "The patient has raised intracranial pressure.", "entities": [{"start": 16, "end": 44, "label": "CONDITION", "text": "raised intracranial pressure"}]}
+{"text": "She has hydrocephalus.", "entities": [{"start": 8, "end": 21, "label": "CONDITION", "text": "hydrocephalus"}]}
+{"text": "He has a subdural haematoma.", "entities": []}
+{"text": "The patient has an intracranial haemorrhage.", "entities": []}
+{"text": "She is paraplegic.", "entities": []}
+{"text": "He is tetraplegic.", "entities": []}
+{"text": "She has visual impairment.", "entities": [{"start": 8, "end": 25, "label": "CONDITION", "text": "visual impairment"}]}
+{"text": "He has hearing impairment.", "entities": [{"start": 7, "end": 25, "label": "CONDITION", "text": "hearing impairment"}]}
+{"text": "The patient has learning disability.", "entities": [{"start": 16, "end": 35, "label": "CONDITION", "text": "learning disability"}]}
+{"text": "She is on dialysis three times per week.", "entities": []}
+{"text": "He has reduced bone density.", "entities": [{"start": 7, "end": 27, "label": "CONDITION", "text": "reduced bone density"}]}
+{"text": "The patient has osteopenia.", "entities": [{"start": 16, "end": 26, "label": "CONDITION", "text": "osteopenia"}]}
+{"text": "She has vitamin D deficiency.", "entities": [{"start": 8, "end": 28, "label": "CONDITION", "text": "vitamin D deficiency"}]}
+{"text": "He has iron deficiency.", "entities": [{"start": 7, "end": 22, "label": "CONDITION", "text": "iron deficiency"}]}
+{"text": "The patient has zinc deficiency.", "entities": [{"start": 16, "end": 31, "label": "CONDITION", "text": "zinc deficiency"}]}
+{"text": "She has a low glomerular filtration rate.", "entities": [{"start": 10, "end": 40, "label": "CONDITION", "text": "low glomerular filtration rate"}]}
+{"text": "He has proteinuria.", "entities": [{"start": 7, "end": 18, "label": "CONDITION", "text": "proteinuria"}]}
+{"text": "The patient has microalbuminuria.", "entities": [{"start": 16, "end": 32, "label": "CONDITION", "text": "microalbuminuria"}]}
+{"text": "Can Metformin be used in a patient with mild renal impairment?", "entities": [{"start": 4, "end": 13, "label": "DRUG", "text": "Metformin"}, {"start": 40, "end": 61, "label": "CONDITION", "text": "mild renal impairment"}]}
+{"text": "Is Atorvastatin safe for a patient with hepatic dysfunction?", "entities": [{"start": 3, "end": 15, "label": "DRUG", "text": "Atorvastatin"}, {"start": 40, "end": 59, "label": "CONDITION", "text": "hepatic dysfunction"}]}
+{"text": "Can Lisinopril be used in heart failure with renal dysfunction?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Lisinopril"}, {"start": 26, "end": 39, "label": "DISEASE", "text": "heart failure"}, {"start": 45, "end": 62, "label": "CONDITION", "text": "renal dysfunction"}]}
+{"text": "The patient has type 2 diabetes and is taking Glimepiride.", "entities": [{"start": 16, "end": 31, "label": "DISEASE", "text": "type 2 diabetes"}, {"start": 46, "end": 57, "label": "DRUG", "text": "Glimepiride"}]}
+{"text": "She was prescribed Amlodipine for hypertension.", "entities": [{"start": 19, "end": 29, "label": "DRUG", "text": "Amlodipine"}, {"start": 34, "end": 46, "label": "DISEASE", "text": "hypertension"}]}
+{"text": "Is Ramipril appropriate for coronary artery disease in pregnancy?", "entities": [{"start": 3, "end": 11, "label": "DRUG", "text": "Ramipril"}, {"start": 28, "end": 51, "label": "DISEASE", "text": "coronary artery disease"}, {"start": 55, "end": 64, "label": "CONDITION", "text": "pregnancy"}]}
+{"text": "He has atrial fibrillation and is taking Warfarin.", "entities": [{"start": 7, "end": 26, "label": "DISEASE", "text": "atrial fibrillation"}, {"start": 41, "end": 49, "label": "DRUG", "text": "Warfarin"}]}
+{"text": "Can Apixaban be used in atrial fibrillation with renal impairment?", "entities": [{"start": 4, "end": 12, "label": "DRUG", "text": "Apixaban"}, {"start": 24, "end": 43, "label": "DISEASE", "text": "atrial fibrillation"}, {"start": 49, "end": 65, "label": "CONDITION", "text": "renal impairment"}]}
+{"text": "She reports headache and nausea after starting Metformin.", "entities": [{"start": 12, "end": 20, "label": "SYMPTOM", "text": "headache"}, {"start": 25, "end": 31, "label": "SYMPTOM", "text": "nausea"}, {"start": 47, "end": 56, "label": "DRUG", "text": "Metformin"}]}
+{"text": "The patient has heart failure and reports dyspnea and ankle swelling.", "entities": [{"start": 16, "end": 29, "label": "DISEASE", "text": "heart failure"}, {"start": 42, "end": 49, "label": "SYMPTOM", "text": "dyspnea"}, {"start": 54, "end": 68, "label": "SYMPTOM", "text": "ankle swelling"}]}
+{"text": "Is Carvedilol safe in heart failure with moderate hepatic impairment?", "entities": [{"start": 3, "end": 13, "label": "DRUG", "text": "Carvedilol"}, {"start": 22, "end": 35, "label": "DISEASE", "text": "heart failure"}, {"start": 41, "end": 68, "label": "CONDITION", "text": "moderate hepatic impairment"}]}
+{"text": "She has rheumatoid arthritis and reports joint pain and morning stiffness.", "entities": [{"start": 8, "end": 28, "label": "DISEASE", "text": "rheumatoid arthritis"}, {"start": 41, "end": 51, "label": "SYMPTOM", "text": "joint pain"}, {"start": 56, "end": 73, "label": "SYMPTOM", "text": "morning stiffness"}]}
+{"text": "Can Adalimumab be used in rheumatoid arthritis during pregnancy?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Adalimumab"}, {"start": 26, "end": 46, "label": "DISEASE", "text": "rheumatoid arthritis"}, {"start": 54, "end": 63, "label": "CONDITION", "text": "pregnancy"}]}
+{"text": "He was prescribed Donepezil for Alzheimer disease.", "entities": [{"start": 18, "end": 27, "label": "DRUG", "text": "Donepezil"}, {"start": 32, "end": 49, "label": "DISEASE", "text": "Alzheimer disease"}]}
+{"text": "Is Memantine safe in Alzheimer disease with severe renal impairment?", "entities": [{"start": 3, "end": 12, "label": "DRUG", "text": "Memantine"}, {"start": 21, "end": 38, "label": "DISEASE", "text": "Alzheimer disease"}, {"start": 44, "end": 67, "label": "CONDITION", "text": "severe renal impairment"}]}
+{"text": "The patient has Parkinson disease and reports tremors and rigidity.", "entities": [{"start": 16, "end": 33, "label": "DISEASE", "text": "Parkinson disease"}, {"start": 46, "end": 53, "label": "SYMPTOM", "text": "tremors"}, {"start": 58, "end": 66, "label": "SYMPTOM", "text": "rigidity"}]}
+{"text": "She was prescribed Levodopa for Parkinson disease.", "entities": [{"start": 19, "end": 27, "label": "DRUG", "text": "Levodopa"}, {"start": 32, "end": 49, "label": "DISEASE", "text": "Parkinson disease"}]}
+{"text": "Can Sertraline be used in major depressive disorder during pregnancy?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Sertraline"}, {"start": 26, "end": 51, "label": "DISEASE", "text": "major depressive disorder"}, {"start": 59, "end": 68, "label": "CONDITION", "text": "pregnancy"}]}
+{"text": "He has generalised anxiety disorder and reports excessive worrying and insomnia.", "entities": [{"start": 7, "end": 35, "label": "DISEASE", "text": "generalised anxiety disorder"}, {"start": 48, "end": 66, "label": "SYMPTOM", "text": "excessive worrying"}, {"start": 71, "end": 79, "label": "SYMPTOM", "text": "insomnia"}]}
+{"text": "Is Pregabalin safe in generalised anxiety disorder with renal impairment?", "entities": [{"start": 3, "end": 13, "label": "DRUG", "text": "Pregabalin"}, {"start": 22, "end": 50, "label": "DISEASE", "text": "generalised anxiety disorder"}, {"start": 56, "end": 72, "label": "CONDITION", "text": "renal impairment"}]}
+{"text": "The patient has COPD and reports dyspnea and productive cough.", "entities": [{"start": 16, "end": 20, "label": "DISEASE", "text": "COPD"}, {"start": 33, "end": 40, "label": "SYMPTOM", "text": "dyspnea"}, {"start": 45, "end": 61, "label": "SYMPTOM", "text": "productive cough"}]}
+{"text": "She was prescribed Tiotropium for COPD with mild hepatic impairment.", "entities": [{"start": 19, "end": 29, "label": "DRUG", "text": "Tiotropium"}, {"start": 34, "end": 38, "label": "DISEASE", "text": "COPD"}, {"start": 44, "end": 67, "label": "CONDITION", "text": "mild hepatic impairment"}]}
+{"text": "Can Fluticasone be used in asthma during breastfeeding?", "entities": [{"start": 4, "end": 15, "label": "DRUG", "text": "Fluticasone"}, {"start": 27, "end": 33, "label": "DISEASE", "text": "asthma"}, {"start": 41, "end": 54, "label": "CONDITION", "text": "breastfeeding"}]}
+{"text": "He has peptic ulcer disease and is taking Omeprazole.", "entities": [{"start": 7, "end": 27, "label": "DISEASE", "text": "peptic ulcer disease"}, {"start": 42, "end": 52, "label": "DRUG", "text": "Omeprazole"}]}
+{"text": "Is Pantoprazole safe in GERD with hepatic dysfunction?", "entities": [{"start": 3, "end": 15, "label": "DRUG", "text": "Pantoprazole"}, {"start": 24, "end": 28, "label": "DISEASE", "text": "GERD"}, {"start": 34, "end": 53, "label": "CONDITION", "text": "hepatic dysfunction"}]}
+{"text": "The patient has Crohn disease and reports abdominal pain and diarrhoea.", "entities": [{"start": 16, "end": 29, "label": "DISEASE", "text": "Crohn disease"}, {"start": 42, "end": 56, "label": "SYMPTOM", "text": "abdominal pain"}, {"start": 61, "end": 70, "label": "SYMPTOM", "text": "diarrhoea"}]}
+{"text": "Can Methotrexate be used in Crohn disease with mild renal impairment?", "entities": [{"start": 4, "end": 16, "label": "DRUG", "text": "Methotrexate"}, {"start": 28, "end": 41, "label": "DISEASE", "text": "Crohn disease"}, {"start": 47, "end": 68, "label": "CONDITION", "text": "mild renal impairment"}]}
+{"text": "She has psoriasis and reports itching and skin rash.", "entities": [{"start": 8, "end": 17, "label": "DISEASE", "text": "psoriasis"}, {"start": 30, "end": 37, "label": "SYMPTOM", "text": "itching"}, {"start": 42, "end": 51, "label": "SYMPTOM", "text": "skin rash"}]}
+{"text": "He was prescribed Hydroxychloroquine for systemic lupus erythematosus.", "entities": [{"start": 18, "end": 36, "label": "DRUG", "text": "Hydroxychloroquine"}, {"start": 41, "end": 69, "label": "DISEASE", "text": "systemic lupus erythematosus"}]}
+{"text": "Can Sulfasalazine be used in ankylosing spondylitis during pregnancy?", "entities": [{"start": 4, "end": 17, "label": "DRUG", "text": "Sulfasalazine"}, {"start": 29, "end": 51, "label": "DISEASE", "text": "ankylosing spondylitis"}, {"start": 59, "end": 68, "label": "CONDITION", "text": "pregnancy"}]}
+{"text": "The patient has gout and reports joint pain and swelling.", "entities": [{"start": 16, "end": 20, "label": "DISEASE", "text": "gout"}, {"start": 33, "end": 43, "label": "SYMPTOM", "text": "joint pain"}, {"start": 48, "end": 56, "label": "SYMPTOM", "text": "swelling"}]}
+{"text": "Is Allopurinol safe in gout with severe renal impairment?", "entities": [{"start": 3, "end": 14, "label": "DRUG", "text": "Allopurinol"}, {"start": 23, "end": 27, "label": "DISEASE", "text": "gout"}, {"start": 33, "end": 56, "label": "CONDITION", "text": "severe renal impairment"}]}
+{"text": "She has hypothyroidism and reports fatigue and cold intolerance.", "entities": [{"start": 8, "end": 22, "label": "DISEASE", "text": "hypothyroidism"}, {"start": 35, "end": 42, "label": "SYMPTOM", "text": "fatigue"}, {"start": 47, "end": 63, "label": "SYMPTOM", "text": "cold intolerance"}]}
+{"text": "He was prescribed Levothyroxine for hypothyroidism.", "entities": [{"start": 18, "end": 31, "label": "DRUG", "text": "Levothyroxine"}, {"start": 36, "end": 50, "label": "DISEASE", "text": "hypothyroidism"}]}
+{"text": "Can Carbimazole be used in hyperthyroidism during breastfeeding?", "entities": [{"start": 4, "end": 15, "label": "DRUG", "text": "Carbimazole"}, {"start": 27, "end": 42, "label": "DISEASE", "text": "hyperthyroidism"}, {"start": 50, "end": 63, "label": "CONDITION", "text": "breastfeeding"}]}
+{"text": "The patient has epilepsy and is taking Levetiracetam.", "entities": [{"start": 16, "end": 24, "label": "DISEASE", "text": "epilepsy"}, {"start": 39, "end": 52, "label": "DRUG", "text": "Levetiracetam"}]}
+{"text": "Is Lamotrigine safe in epilepsy with hepatic impairment?", "entities": [{"start": 3, "end": 14, "label": "DRUG", "text": "Lamotrigine"}, {"start": 23, "end": 31, "label": "DISEASE", "text": "epilepsy"}, {"start": 37, "end": 55, "label": "CONDITION", "text": "hepatic impairment"}]}
+{"text": "She has schizophrenia and is taking Olanzapine.", "entities": [{"start": 8, "end": 21, "label": "DISEASE", "text": "schizophrenia"}, {"start": 36, "end": 46, "label": "DRUG", "text": "Olanzapine"}]}
+{"text": "Can Quetiapine be used in bipolar disorder with obesity?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Quetiapine"}, {"start": 26, "end": 42, "label": "DISEASE", "text": "bipolar disorder"}, {"start": 48, "end": 55, "label": "CONDITION", "text": "obesity"}]}
+{"text": "He has multiple sclerosis and reports fatigue and difficulty walking.", "entities": [{"start": 7, "end": 25, "label": "DISEASE", "text": "multiple sclerosis"}, {"start": 38, "end": 45, "label": "SYMPTOM", "text": "fatigue"}, {"start": 50, "end": 68, "label": "SYMPTOM", "text": "difficulty walking"}]}
+{"text": "Is Interferon beta appropriate for multiple sclerosis during pregnancy?", "entities": [{"start": 35, "end": 53, "label": "DISEASE", "text": "multiple sclerosis"}, {"start": 61, "end": 70, "label": "CONDITION", "text": "pregnancy"}]}
+{"text": "The patient has osteoporosis and mild renal impairment.", "entities": [{"start": 16, "end": 28, "label": "DISEASE", "text": "osteoporosis"}, {"start": 33, "end": 54, "label": "CONDITION", "text": "mild renal impairment"}]}
+{"text": "She reports back pain and joint pain in the context of osteoporosis.", "entities": [{"start": 12, "end": 21, "label": "SYMPTOM", "text": "back pain"}, {"start": 26, "end": 36, "label": "SYMPTOM", "text": "joint pain"}, {"start": 55, "end": 67, "label": "DISEASE", "text": "osteoporosis"}]}
+{"text": "He has iron deficiency anaemia and reports fatigue and pallor.", "entities": [{"start": 7, "end": 30, "label": "DISEASE", "text": "iron deficiency anaemia"}, {"start": 43, "end": 50, "label": "SYMPTOM", "text": "fatigue"}, {"start": 55, "end": 61, "label": "SYMPTOM", "text": "pallor"}]}
+{"text": "Can Ferrous Sulphate be given for iron deficiency anaemia in pregnancy?", "entities": [{"start": 34, "end": 57, "label": "DISEASE", "text": "iron deficiency anaemia"}, {"start": 61, "end": 70, "label": "CONDITION", "text": "pregnancy"}]}
+{"text": "The patient has sickle cell disease and reports chest pain and dyspnea.", "entities": [{"start": 16, "end": 35, "label": "DISEASE", "text": "sickle cell disease"}, {"start": 48, "end": 58, "label": "SYMPTOM", "text": "chest pain"}, {"start": 63, "end": 70, "label": "SYMPTOM", "text": "dyspnea"}]}
+{"text": "She has Gaucher disease and is receiving Imiglucerase infusions.", "entities": [{"start": 8, "end": 23, "label": "DISEASE", "text": "Gaucher disease"}, {"start": 41, "end": 53, "label": "DRUG", "text": "Imiglucerase"}]}
+{"text": "He has Pompe disease and uses Alglucosidase Alfa.", "entities": [{"start": 7, "end": 20, "label": "DISEASE", "text": "Pompe disease"}, {"start": 30, "end": 48, "label": "DRUG", "text": "Alglucosidase Alfa"}]}
+{"text": "Can Agalsidase Beta be used in Fabry disease with renal impairment?", "entities": [{"start": 4, "end": 19, "label": "DRUG", "text": "Agalsidase Beta"}, {"start": 31, "end": 44, "label": "DISEASE", "text": "Fabry disease"}, {"start": 50, "end": 66, "label": "CONDITION", "text": "renal impairment"}]}
+{"text": "The patient has non-small cell lung cancer and reports weight loss and cough.", "entities": [{"start": 16, "end": 42, "label": "DISEASE", "text": "non-small cell lung cancer"}, {"start": 55, "end": 66, "label": "SYMPTOM", "text": "weight loss"}, {"start": 71, "end": 76, "label": "SYMPTOM", "text": "cough"}]}
+{"text": "She was prescribed Docetaxel for breast cancer.", "entities": [{"start": 19, "end": 28, "label": "DRUG", "text": "Docetaxel"}, {"start": 33, "end": 46, "label": "DISEASE", "text": "breast cancer"}]}
+{"text": "Can Oxaliplatin be used in colorectal cancer with neuropathy?", "entities": [{"start": 4, "end": 15, "label": "DRUG", "text": "Oxaliplatin"}, {"start": 27, "end": 44, "label": "DISEASE", "text": "colorectal cancer"}, {"start": 50, "end": 60, "label": "SYMPTOM", "text": "neuropathy"}]}
+{"text": "He has prostate cancer with bone metastases and reports bone pain.", "entities": [{"start": 7, "end": 22, "label": "DISEASE", "text": "prostate cancer"}, {"start": 56, "end": 65, "label": "SYMPTOM", "text": "bone pain"}]}
+{"text": "The patient has Hodgkin lymphoma and is receiving chemotherapy.", "entities": [{"start": 16, "end": 32, "label": "DISEASE", "text": "Hodgkin lymphoma"}, {"start": 50, "end": 62, "label": "CONDITION", "text": "chemotherapy"}]}
+{"text": "Is Metformin Hydrochloride (Prolonged Release) + Glimepiride safe in elderly with renal impairment?", "entities": [{"start": 3, "end": 60, "label": "DRUG", "text": "Metformin Hydrochloride (Prolonged Release) + Glimepiride"}, {"start": 82, "end": 98, "label": "CONDITION", "text": "renal impairment"}]}
+{"text": "She has gestational diabetes and requires insulin.", "entities": [{"start": 8, "end": 28, "label": "CONDITION", "text": "gestational diabetes"}]}
+{"text": "He has type 2 diabetes and hypertension and is taking Metformin and Ramipril.", "entities": [{"start": 7, "end": 22, "label": "DISEASE", "text": "type 2 diabetes"}, {"start": 27, "end": 39, "label": "DISEASE", "text": "hypertension"}, {"start": 54, "end": 63, "label": "DRUG", "text": "Metformin"}, {"start": 68, "end": 76, "label": "DRUG", "text": "Ramipril"}]}
+{"text": "The patient has heart failure and hypertension — is Ramipril + Amlodipine appropriate?", "entities": [{"start": 16, "end": 29, "label": "DISEASE", "text": "heart failure"}, {"start": 34, "end": 46, "label": "DISEASE", "text": "hypertension"}, {"start": 52, "end": 73, "label": "DRUG", "text": "Ramipril + Amlodipine"}]}
+{"text": "Can Frusemide + Spironolactone be used in heart failure with moderate renal impairment?", "entities": [{"start": 4, "end": 30, "label": "DRUG", "text": "Frusemide + Spironolactone"}, {"start": 42, "end": 55, "label": "DISEASE", "text": "heart failure"}, {"start": 61, "end": 86, "label": "CONDITION", "text": "moderate renal impairment"}]}
+{"text": "She has atrial fibrillation and reports palpitations and fatigue.", "entities": [{"start": 8, "end": 27, "label": "DISEASE", "text": "atrial fibrillation"}, {"start": 40, "end": 52, "label": "SYMPTOM", "text": "palpitations"}, {"start": 57, "end": 64, "label": "SYMPTOM", "text": "fatigue"}]}
+{"text": "He has COPD and cardiac failure and reports dyspnea at rest.", "entities": [{"start": 7, "end": 11, "label": "DISEASE", "text": "COPD"}, {"start": 16, "end": 31, "label": "CONDITION", "text": "cardiac failure"}, {"start": 44, "end": 51, "label": "SYMPTOM", "text": "dyspnea"}]}
+{"text": "The patient has diabetes and chronic kidney disease with proteinuria.", "entities": [{"start": 16, "end": 24, "label": "DISEASE", "text": "diabetes"}, {"start": 29, "end": 51, "label": "DISEASE", "text": "chronic kidney disease"}, {"start": 57, "end": 68, "label": "CONDITION", "text": "proteinuria"}]}
+{"text": "Is Telmisartan + Amlodipine + Hydrochlorothiazide appropriate in hypertension with renal impairment?", "entities": [{"start": 3, "end": 49, "label": "DRUG", "text": "Telmisartan + Amlodipine + Hydrochlorothiazide"}, {"start": 65, "end": 77, "label": "DISEASE", "text": "hypertension"}, {"start": 83, "end": 99, "label": "CONDITION", "text": "renal impairment"}]}
+{"text": "She has vascular dementia and reports memory loss and confusion.", "entities": [{"start": 8, "end": 25, "label": "DISEASE", "text": "vascular dementia"}, {"start": 38, "end": 49, "label": "SYMPTOM", "text": "memory loss"}, {"start": 54, "end": 63, "label": "SYMPTOM", "text": "confusion"}]}
+{"text": "He was prescribed Rivastigmine for Alzheimer disease.", "entities": [{"start": 18, "end": 30, "label": "DRUG", "text": "Rivastigmine"}, {"start": 35, "end": 52, "label": "DISEASE", "text": "Alzheimer disease"}]}
+{"text": "Can Galantamine be used in dementia with mild hepatic impairment?", "entities": [{"start": 4, "end": 15, "label": "DRUG", "text": "Galantamine"}, {"start": 27, "end": 35, "label": "DISEASE", "text": "dementia"}, {"start": 41, "end": 64, "label": "CONDITION", "text": "mild hepatic impairment"}]}
+{"text": "The patient has migraine and reports severe headache and nausea.", "entities": [{"start": 16, "end": 24, "label": "DISEASE", "text": "migraine"}, {"start": 44, "end": 52, "label": "SYMPTOM", "text": "headache"}, {"start": 57, "end": 63, "label": "SYMPTOM", "text": "nausea"}]}
+{"text": "She is experiencing a migraine with photophobia and vomiting.", "entities": [{"start": 22, "end": 30, "label": "SYMPTOM", "text": "migraine"}, {"start": 36, "end": 47, "label": "SYMPTOM", "text": "photophobia"}, {"start": 52, "end": 60, "label": "SYMPTOM", "text": "vomiting"}]}
+{"text": "He has migraine and takes Sumatriptan for acute attacks.", "entities": [{"start": 7, "end": 15, "label": "DISEASE", "text": "migraine"}, {"start": 26, "end": 37, "label": "DRUG", "text": "Sumatriptan"}]}
+{"text": "The patient has irritable bowel syndrome and reports abdominal cramping and bloating.", "entities": [{"start": 16, "end": 40, "label": "DISEASE", "text": "irritable bowel syndrome"}, {"start": 53, "end": 71, "label": "SYMPTOM", "text": "abdominal cramping"}, {"start": 76, "end": 84, "label": "SYMPTOM", "text": "bloating"}]}
+{"text": "She has ulcerative colitis and reports bloody diarrhoea and abdominal pain.", "entities": [{"start": 8, "end": 26, "label": "DISEASE", "text": "ulcerative colitis"}, {"start": 39, "end": 55, "label": "SYMPTOM", "text": "bloody diarrhoea"}, {"start": 60, "end": 74, "label": "SYMPTOM", "text": "abdominal pain"}]}
+{"text": "He was prescribed Mesalazine for ulcerative colitis.", "entities": [{"start": 18, "end": 28, "label": "DRUG", "text": "Mesalazine"}, {"start": 33, "end": 51, "label": "DISEASE", "text": "ulcerative colitis"}]}
+{"text": "The patient has chronic fatigue syndrome and reports fatigue and difficulty concentrating.", "entities": [{"start": 16, "end": 40, "label": "DISEASE", "text": "chronic fatigue syndrome"}, {"start": 53, "end": 60, "label": "SYMPTOM", "text": "fatigue"}, {"start": 65, "end": 89, "label": "SYMPTOM", "text": "difficulty concentrating"}]}
+{"text": "She has fibromyalgia and reports widespread muscle pain and fatigue.", "entities": [{"start": 8, "end": 20, "label": "DISEASE", "text": "fibromyalgia"}, {"start": 44, "end": 55, "label": "SYMPTOM", "text": "muscle pain"}, {"start": 60, "end": 67, "label": "SYMPTOM", "text": "fatigue"}]}
+{"text": "He has type 1 diabetes and mild cognitive impairment.", "entities": [{"start": 7, "end": 22, "label": "DISEASE", "text": "type 1 diabetes"}, {"start": 27, "end": 52, "label": "CONDITION", "text": "mild cognitive impairment"}]}
+{"text": "The patient has bipolar disorder and is in moderate hepatic impairment.", "entities": [{"start": 16, "end": 32, "label": "DISEASE", "text": "bipolar disorder"}, {"start": 43, "end": 70, "label": "CONDITION", "text": "moderate hepatic impairment"}]}
+{"text": "Can Valproate be used in bipolar disorder during pregnancy?", "entities": [{"start": 4, "end": 13, "label": "DRUG", "text": "Valproate"}, {"start": 25, "end": 41, "label": "DISEASE", "text": "bipolar disorder"}, {"start": 49, "end": 58, "label": "CONDITION", "text": "pregnancy"}]}
+{"text": "She has post-traumatic stress disorder and insomnia.", "entities": [{"start": 8, "end": 38, "label": "DISEASE", "text": "post-traumatic stress disorder"}, {"start": 43, "end": 51, "label": "SYMPTOM", "text": "insomnia"}]}
+{"text": "He has depression and reports low mood, fatigue, and weight loss.", "entities": [{"start": 7, "end": 17, "label": "DISEASE", "text": "depression"}, {"start": 40, "end": 47, "label": "SYMPTOM", "text": "fatigue"}, {"start": 53, "end": 64, "label": "SYMPTOM", "text": "weight loss"}]}
+{"text": "The patient has psoriatic arthritis and is receiving Etanercept.", "entities": [{"start": 16, "end": 35, "label": "DISEASE", "text": "psoriatic arthritis"}, {"start": 53, "end": 63, "label": "DRUG", "text": "Etanercept"}]}
+{"text": "Is Infliximab safe in Crohn disease with moderate hepatic impairment?", "entities": [{"start": 3, "end": 13, "label": "DRUG", "text": "Infliximab"}, {"start": 22, "end": 35, "label": "DISEASE", "text": "Crohn disease"}, {"start": 41, "end": 68, "label": "CONDITION", "text": "moderate hepatic impairment"}]}
+{"text": "She has systemic lupus erythematosus and pre-eclampsia.", "entities": [{"start": 8, "end": 36, "label": "DISEASE", "text": "systemic lupus erythematosus"}, {"start": 41, "end": 54, "label": "CONDITION", "text": "pre-eclampsia"}]}
+{"text": "He has coronary artery disease and is on Aspirin and Atorvastatin.", "entities": [{"start": 7, "end": 30, "label": "DISEASE", "text": "coronary artery disease"}, {"start": 41, "end": 48, "label": "DRUG", "text": "Aspirin"}, {"start": 53, "end": 65, "label": "DRUG", "text": "Atorvastatin"}]}
+{"text": "The patient has stroke and reports slurred speech and facial drooping.", "entities": [{"start": 16, "end": 22, "label": "DISEASE", "text": "stroke"}, {"start": 35, "end": 49, "label": "SYMPTOM", "text": "slurred speech"}, {"start": 54, "end": 69, "label": "SYMPTOM", "text": "facial drooping"}]}
+{"text": "Can Clopidogrel be used after ischaemic stroke in mild renal impairment?", "entities": [{"start": 4, "end": 15, "label": "DRUG", "text": "Clopidogrel"}, {"start": 30, "end": 46, "label": "DISEASE", "text": "ischaemic stroke"}, {"start": 50, "end": 71, "label": "CONDITION", "text": "mild renal impairment"}]}
+{"text": "She has pulmonary embolism and is on Rivaroxaban.", "entities": [{"start": 8, "end": 26, "label": "DISEASE", "text": "pulmonary embolism"}, {"start": 37, "end": 48, "label": "DRUG", "text": "Rivaroxaban"}]}
+{"text": "He has deep vein thrombosis and renal impairment — is Dabigatran safe?", "entities": [{"start": 7, "end": 27, "label": "DISEASE", "text": "deep vein thrombosis"}, {"start": 32, "end": 48, "label": "CONDITION", "text": "renal impairment"}, {"start": 54, "end": 64, "label": "DRUG", "text": "Dabigatran"}]}
+{"text": "The patient has heart failure and reports orthopnoea and paroxysmal nocturnal dyspnoea.", "entities": [{"start": 16, "end": 29, "label": "DISEASE", "text": "heart failure"}, {"start": 42, "end": 52, "label": "SYMPTOM", "text": "orthopnoea"}, {"start": 57, "end": 86, "label": "SYMPTOM", "text": "paroxysmal nocturnal dyspnoea"}]}
+{"text": "She has chronic kidney disease and anaemia.", "entities": [{"start": 8, "end": 30, "label": "DISEASE", "text": "chronic kidney disease"}, {"start": 35, "end": 42, "label": "CONDITION", "text": "anaemia"}]}
+{"text": "He was prescribed Erythropoietin for anaemia in chronic kidney disease.", "entities": [{"start": 37, "end": 44, "label": "CONDITION", "text": "anaemia"}, {"start": 48, "end": 70, "label": "DISEASE", "text": "chronic kidney disease"}]}
+{"text": "The patient has hypertension and reports headache and blurred vision.", "entities": [{"start": 16, "end": 28, "label": "DISEASE", "text": "hypertension"}, {"start": 41, "end": 49, "label": "SYMPTOM", "text": "headache"}, {"start": 54, "end": 68, "label": "SYMPTOM", "text": "blurred vision"}]}
+{"text": "Can Amlodipine be used in hypertension with vestibular dysfunction?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Amlodipine"}, {"start": 26, "end": 38, "label": "DISEASE", "text": "hypertension"}, {"start": 44, "end": 66, "label": "CONDITION", "text": "vestibular dysfunction"}]}
+{"text": "She has asthma and reports wheezing and shortness of breath.", "entities": [{"start": 8, "end": 14, "label": "DISEASE", "text": "asthma"}, {"start": 27, "end": 35, "label": "SYMPTOM", "text": "wheezing"}, {"start": 40, "end": 59, "label": "SYMPTOM", "text": "shortness of breath"}]}
+{"text": "He has atopic dermatitis and reports itching and skin rash.", "entities": [{"start": 7, "end": 24, "label": "DISEASE", "text": "atopic dermatitis"}, {"start": 37, "end": 44, "label": "SYMPTOM", "text": "itching"}, {"start": 49, "end": 58, "label": "SYMPTOM", "text": "skin rash"}]}
+{"text": "The patient has thyroid dysfunction and adrenal insufficiency.", "entities": [{"start": 16, "end": 35, "label": "CONDITION", "text": "thyroid dysfunction"}, {"start": 40, "end": 61, "label": "CONDITION", "text": "adrenal insufficiency"}]}
+{"text": "She has peripheral vascular disease and reports intermittent claudication.", "entities": [{"start": 8, "end": 35, "label": "DISEASE", "text": "peripheral vascular disease"}, {"start": 48, "end": 73, "label": "SYMPTOM", "text": "intermittent claudication"}]}
+{"text": "He has tuberculosis and is immunocompromised.", "entities": [{"start": 7, "end": 19, "label": "DISEASE", "text": "tuberculosis"}, {"start": 27, "end": 44, "label": "CONDITION", "text": "immunocompromised"}]}
+{"text": "The patient has community-acquired pneumonia and reports fever and productive cough.", "entities": [{"start": 16, "end": 44, "label": "DISEASE", "text": "community-acquired pneumonia"}, {"start": 57, "end": 62, "label": "SYMPTOM", "text": "fever"}, {"start": 67, "end": 83, "label": "SYMPTOM", "text": "productive cough"}]}
+{"text": "Can Azithromycin be used for pneumonia in mild hepatic impairment?", "entities": [{"start": 4, "end": 16, "label": "DRUG", "text": "Azithromycin"}, {"start": 29, "end": 38, "label": "DISEASE", "text": "pneumonia"}, {"start": 42, "end": 65, "label": "CONDITION", "text": "mild hepatic impairment"}]}
+{"text": "She has non-alcoholic fatty liver disease and obesity.", "entities": [{"start": 8, "end": 41, "label": "DISEASE", "text": "non-alcoholic fatty liver disease"}, {"start": 46, "end": 53, "label": "CONDITION", "text": "obesity"}]}
+{"text": "He has cirrhosis and reports jaundice and ascites.", "entities": [{"start": 7, "end": 16, "label": "DISEASE", "text": "cirrhosis"}, {"start": 29, "end": 37, "label": "SYMPTOM", "text": "jaundice"}, {"start": 42, "end": 49, "label": "SYMPTOM", "text": "ascites"}]}
+{"text": "The patient has pancreatitis and reports severe abdominal pain and vomiting.", "entities": [{"start": 16, "end": 28, "label": "DISEASE", "text": "pancreatitis"}, {"start": 48, "end": 62, "label": "SYMPTOM", "text": "abdominal pain"}, {"start": 67, "end": 75, "label": "SYMPTOM", "text": "vomiting"}]}
+{"text": "She has coeliac disease and reports diarrhoea and weight loss.", "entities": [{"start": 8, "end": 23, "label": "DISEASE", "text": "coeliac disease"}, {"start": 36, "end": 45, "label": "SYMPTOM", "text": "diarrhoea"}, {"start": 50, "end": 61, "label": "SYMPTOM", "text": "weight loss"}]}
+{"text": "He has interstitial lung disease and pulmonary hypertension.", "entities": [{"start": 7, "end": 32, "label": "DISEASE", "text": "interstitial lung disease"}, {"start": 37, "end": 59, "label": "DISEASE", "text": "pulmonary hypertension"}]}
+{"text": "The patient has giant cell arteritis and polymyalgia rheumatica.", "entities": [{"start": 16, "end": 36, "label": "DISEASE", "text": "giant cell arteritis"}, {"start": 41, "end": 63, "label": "DISEASE", "text": "polymyalgia rheumatica"}]}
+{"text": "She has Sjögren syndrome and reports dry eyes and dry mouth.", "entities": [{"start": 8, "end": 24, "label": "DISEASE", "text": "Sjögren syndrome"}, {"start": 37, "end": 45, "label": "SYMPTOM", "text": "dry eyes"}, {"start": 50, "end": 59, "label": "SYMPTOM", "text": "dry mouth"}]}
+{"text": "He has sarcoidosis and reports cough and dyspnea.", "entities": [{"start": 7, "end": 18, "label": "DISEASE", "text": "sarcoidosis"}, {"start": 31, "end": 36, "label": "SYMPTOM", "text": "cough"}, {"start": 41, "end": 48, "label": "SYMPTOM", "text": "dyspnea"}]}
+{"text": "The patient has myelofibrosis and reports fatigue and night sweats.", "entities": [{"start": 16, "end": 29, "label": "CONDITION", "text": "myelofibrosis"}, {"start": 42, "end": 49, "label": "SYMPTOM", "text": "fatigue"}, {"start": 54, "end": 66, "label": "SYMPTOM", "text": "night sweats"}]}
+{"text": "She has chronic myeloid leukaemia and mild renal impairment.", "entities": [{"start": 8, "end": 33, "label": "DISEASE", "text": "chronic myeloid leukaemia"}, {"start": 38, "end": 59, "label": "CONDITION", "text": "mild renal impairment"}]}
+{"text": "He has multiple myeloma and hypercalcaemia.", "entities": [{"start": 7, "end": 23, "label": "DISEASE", "text": "multiple myeloma"}, {"start": 28, "end": 42, "label": "CONDITION", "text": "hypercalcaemia"}]}
+{"text": "The patient has Hodgkin lymphoma and is on chemotherapy, reporting nausea and vomiting.", "entities": [{"start": 16, "end": 32, "label": "DISEASE", "text": "Hodgkin lymphoma"}, {"start": 43, "end": 55, "label": "CONDITION", "text": "chemotherapy"}, {"start": 67, "end": 73, "label": "SYMPTOM", "text": "nausea"}, {"start": 78, "end": 86, "label": "SYMPTOM", "text": "vomiting"}]}
+{"text": "Can Insulin Glargine + Lixisenatide be used in type 2 diabetes with obesity?", "entities": [{"start": 4, "end": 35, "label": "DRUG", "text": "Insulin Glargine + Lixisenatide"}, {"start": 47, "end": 62, "label": "DISEASE", "text": "type 2 diabetes"}, {"start": 68, "end": 75, "label": "CONDITION", "text": "obesity"}]}
+{"text": "She has diabetes and is taking Metformin Hydrochloride (SR) + Glimepiride + Voglibose.", "entities": [{"start": 8, "end": 16, "label": "DISEASE", "text": "diabetes"}, {"start": 31, "end": 85, "label": "DRUG", "text": "Metformin Hydrochloride (SR) + Glimepiride + Voglibose"}]}
+{"text": "He was prescribed Metformin Hydrochloride (Prolonged Release) 1000 mg + Glimepiride for type 2 diabetes.", "entities": [{"start": 18, "end": 83, "label": "DRUG", "text": "Metformin Hydrochloride (Prolonged Release) 1000 mg + Glimepiride"}, {"start": 88, "end": 103, "label": "DISEASE", "text": "type 2 diabetes"}]}
+{"text": "The patient has Fabry disease and renal impairment.", "entities": [{"start": 16, "end": 29, "label": "DISEASE", "text": "Fabry disease"}, {"start": 34, "end": 50, "label": "CONDITION", "text": "renal impairment"}]}
+{"text": "She has Morquio syndrome and is receiving Elosulfase Alfa.", "entities": [{"start": 8, "end": 24, "label": "DISEASE", "text": "Morquio syndrome"}, {"start": 42, "end": 57, "label": "DRUG", "text": "Elosulfase Alfa"}]}
+{"text": "He has Hunter syndrome and is on Idursulfase.", "entities": [{"start": 7, "end": 22, "label": "DISEASE", "text": "Hunter syndrome"}, {"start": 33, "end": 44, "label": "DRUG", "text": "Idursulfase"}]}
+{"text": "The patient has vasculitis and reduced kidney function.", "entities": [{"start": 16, "end": 26, "label": "DISEASE", "text": "vasculitis"}, {"start": 31, "end": 54, "label": "CONDITION", "text": "reduced kidney function"}]}
+{"text": "Can Rituximab be used in vasculitis with moderate renal impairment?", "entities": [{"start": 4, "end": 13, "label": "DRUG", "text": "Rituximab"}, {"start": 25, "end": 35, "label": "DISEASE", "text": "vasculitis"}, {"start": 41, "end": 66, "label": "CONDITION", "text": "moderate renal impairment"}]}
+{"text": "She has systemic sclerosis and reports Raynaud phenomenon.", "entities": [{"start": 8, "end": 26, "label": "DISEASE", "text": "systemic sclerosis"}, {"start": 39, "end": 57, "label": "SYMPTOM", "text": "Raynaud phenomenon"}]}
+{"text": "He has amyloidosis and reports fatigue and weight loss.", "entities": [{"start": 7, "end": 18, "label": "DISEASE", "text": "amyloidosis"}, {"start": 31, "end": 38, "label": "SYMPTOM", "text": "fatigue"}, {"start": 43, "end": 54, "label": "SYMPTOM", "text": "weight loss"}]}
+{"text": "The patient has haemophilia A and bleeding disorder.", "entities": [{"start": 16, "end": 29, "label": "DISEASE", "text": "haemophilia A"}, {"start": 34, "end": 51, "label": "CONDITION", "text": "bleeding disorder"}]}
+{"text": "She has thalassaemia and severe anaemia.", "entities": [{"start": 8, "end": 20, "label": "DISEASE", "text": "thalassaemia"}, {"start": 25, "end": 39, "label": "CONDITION", "text": "severe anaemia"}]}
+{"text": "He has aplastic anaemia and neutropenia.", "entities": [{"start": 7, "end": 23, "label": "DISEASE", "text": "aplastic anaemia"}, {"start": 28, "end": 39, "label": "CONDITION", "text": "neutropenia"}]}
+{"text": "The patient has renal cell carcinoma and reports haematuria and flank pain.", "entities": [{"start": 16, "end": 36, "label": "DISEASE", "text": "renal cell carcinoma"}, {"start": 49, "end": 59, "label": "SYMPTOM", "text": "haematuria"}, {"start": 64, "end": 74, "label": "SYMPTOM", "text": "flank pain"}]}
+{"text": "She has bladder cancer and reports haematuria and dysuria.", "entities": [{"start": 8, "end": 22, "label": "DISEASE", "text": "bladder cancer"}, {"start": 35, "end": 45, "label": "SYMPTOM", "text": "haematuria"}, {"start": 50, "end": 57, "label": "SYMPTOM", "text": "dysuria"}]}
+{"text": "He has hepatocellular carcinoma and hepatic impairment.", "entities": [{"start": 7, "end": 31, "label": "DISEASE", "text": "hepatocellular carcinoma"}, {"start": 36, "end": 54, "label": "CONDITION", "text": "hepatic impairment"}]}
+{"text": "The patient has pancreatic cancer and reports abdominal pain and weight loss.", "entities": [{"start": 16, "end": 33, "label": "DISEASE", "text": "pancreatic cancer"}, {"start": 46, "end": 60, "label": "SYMPTOM", "text": "abdominal pain"}, {"start": 65, "end": 76, "label": "SYMPTOM", "text": "weight loss"}]}
+{"text": "She has ovarian cancer and is on chemotherapy.", "entities": [{"start": 8, "end": 22, "label": "DISEASE", "text": "ovarian cancer"}, {"start": 33, "end": 45, "label": "CONDITION", "text": "chemotherapy"}]}
+{"text": "He has gastric cancer and reports nausea and vomiting.", "entities": [{"start": 7, "end": 21, "label": "DISEASE", "text": "gastric cancer"}, {"start": 34, "end": 40, "label": "SYMPTOM", "text": "nausea"}, {"start": 45, "end": 53, "label": "SYMPTOM", "text": "vomiting"}]}
+{"text": "The patient has oesophageal cancer and reports difficulty swallowing.", "entities": [{"start": 16, "end": 34, "label": "DISEASE", "text": "oesophageal cancer"}, {"start": 47, "end": 68, "label": "SYMPTOM", "text": "difficulty swallowing"}]}
+{"text": "She has cervical cancer and is receiving Cisplatin.", "entities": [{"start": 8, "end": 23, "label": "DISEASE", "text": "cervical cancer"}, {"start": 41, "end": 50, "label": "DRUG", "text": "Cisplatin"}]}
+{"text": "He has prostate cancer and is on hormonal therapy.", "entities": [{"start": 7, "end": 22, "label": "DISEASE", "text": "prostate cancer"}]}
+{"text": "The patient has brain tumour and reports headache and confusion.", "entities": [{"start": 16, "end": 28, "label": "DISEASE", "text": "brain tumour"}, {"start": 41, "end": 49, "label": "SYMPTOM", "text": "headache"}, {"start": 54, "end": 63, "label": "SYMPTOM", "text": "confusion"}]}
+{"text": "She has glioblastoma multiforme and severe cognitive impairment.", "entities": [{"start": 8, "end": 31, "label": "DISEASE", "text": "glioblastoma multiforme"}, {"start": 36, "end": 63, "label": "CONDITION", "text": "severe cognitive impairment"}]}
+{"text": "He has neuroblastoma and is receiving chemotherapy.", "entities": [{"start": 7, "end": 20, "label": "DISEASE", "text": "neuroblastoma"}, {"start": 38, "end": 50, "label": "CONDITION", "text": "chemotherapy"}]}
+{"text": "The patient has Wilms tumour and renal impairment.", "entities": [{"start": 16, "end": 28, "label": "DISEASE", "text": "Wilms tumour"}, {"start": 33, "end": 49, "label": "CONDITION", "text": "renal impairment"}]}
+{"text": "She has retinoblastoma and visual impairment.", "entities": [{"start": 8, "end": 22, "label": "DISEASE", "text": "retinoblastoma"}, {"start": 27, "end": 44, "label": "CONDITION", "text": "visual impairment"}]}
+{"text": "He has non-Hodgkin lymphoma and bone marrow suppression.", "entities": [{"start": 7, "end": 27, "label": "DISEASE", "text": "non-Hodgkin lymphoma"}, {"start": 32, "end": 55, "label": "CONDITION", "text": "bone marrow suppression"}]}
+{"text": "What are the drug interactions I should be aware of?", "entities": []}
+{"text": "Please look up the latest clinical guidelines for this patient.", "entities": []}
+{"text": "The doctor reviewed the patient's medication list.", "entities": []}
+{"text": "Treatment was adjusted based on the latest blood results.", "entities": []}
+{"text": "The patient was discharged after a successful recovery.", "entities": []}
+{"text": "No medication changes were made at this visit.", "entities": []}
+{"text": "Follow-up in three months was arranged.", "entities": []}
+{"text": "The patient tolerated the procedure well.", "entities": []}
+{"text": "Refer to the specialist for further assessment.", "entities": []}
+{"text": "The investigation results were within normal limits.", "entities": []}
+{"text": "A repeat blood test was requested.", "entities": []}
+{"text": "The patient is currently well and has no new complaints.", "entities": []}
+{"text": "Please provide a list of contraindicated medications.", "entities": []}
+{"text": "Review the patient's allergy history before prescribing.", "entities": []}
+{"text": "The patient was educated about lifestyle modifications.", "entities": []}
+{"text": "Exercise and dietary advice were given.", "entities": []}
+{"text": "The prescription was renewed without changes.", "entities": []}
+{"text": "An urgent referral was made to the hospital.", "entities": []}
+{"text": "The patient missed the last two appointments.", "entities": []}
+{"text": "Please check if this medication is available in liquid form.", "entities": []}
+{"text": "The dose was titrated upward gradually.", "entities": []}
+{"text": "The patient reported general improvement in well-being.", "entities": []}
+{"text": "No adverse reactions were reported during the hospital stay.", "entities": []}
+{"text": "Please confirm the correct route of administration.", "entities": []}
+{"text": "The patient was counselled on medication adherence.", "entities": []}
+{"text": "Is this available on the hospital formulary?", "entities": []}
+{"text": "What is the shelf life of this preparation?", "entities": []}
+{"text": "The patient prefers a once-daily dosing schedule.", "entities": []}
+{"text": "Please search for an alternative with fewer side effects.", "entities": []}
+{"text": "The patient has no known drug allergies.", "entities": []}
+{"text": "Review was deferred until the next outpatient appointment.", "entities": []}
+{"text": "What is the recommended monitoring schedule for this treatment?", "entities": []}
+{"text": "The patient moved from another region and needs medication review.", "entities": []}
+{"text": "Can this be administered at home by a carer?", "entities": []}
+{"text": "The nursing staff observed no signs of distress.", "entities": []}
+{"text": "The family was updated on the treatment plan.", "entities": []}
+{"text": "Please verify the dosing for a paediatric patient.", "entities": []}
+{"text": "A medical emergency plan has been put in place.", "entities": []}
+{"text": "The patient signed the consent form for the new treatment.", "entities": []}
+{"text": "What is the cost of this treatment per month?", "entities": []}
+{"text": "Is there a generic alternative available?", "entities": []}
+{"text": "Check whether a dose adjustment is needed for the body weight.", "entities": []}
+{"text": "The patient was advised to avoid grapefruit juice.", "entities": []}
+{"text": "The patient is having difficulty opening childproof containers.", "entities": []}
+{"text": "Medication was switched to a simpler regimen.", "entities": []}
+{"text": "The patient reported difficulty remembering to take the evening dose.", "entities": []}
+{"text": "An electronic medication reminder was suggested.", "entities": []}
+{"text": "The pharmacist reviewed the medication profile for interactions.", "entities": []}
+{"text": "The patient is a healthcare worker and had an occupational exposure.", "entities": []}
+{"text": "The patient returned to work after the illness.", "entities": []}
+{"text": "A home visit was arranged for the housebound patient.", "entities": []}
+{"text": "The patient declined the recommended treatment.", "entities": []}
+{"text": "Second opinion was sought from another specialist.", "entities": []}
+{"text": "The treatment plan was discussed at the multidisciplinary meeting.", "entities": []}
+{"text": "Blood pressure monitoring at home was recommended.", "entities": []}
+{"text": "The patient was advised to keep a symptom diary.", "entities": []}
+{"text": "An echocardiogram was requested.", "entities": []}
+{"text": "The lung function tests showed mild restriction.", "entities": []}
+{"text": "The ultrasound results were reviewed.", "entities": []}
+{"text": "The CT scan showed no significant abnormalities.", "entities": []}
+{"text": "The MRI confirmed the diagnosis.", "entities": []}
+{"text": "The bone density scan was performed.", "entities": []}
+{"text": "The colonoscopy was uneventful.", "entities": []}
+{"text": "The endoscopy showed a normal oesophagus.", "entities": []}
+{"text": "A biopsy was taken and sent for histology.", "entities": []}
+{"text": "The histology report was awaited.", "entities": []}
+{"text": "The patient was reassured about their prognosis.", "entities": []}
+{"text": "This is not a drug query.", "entities": []}
+{"text": "The patient has an upcoming procedure next week.", "entities": []}
+{"text": "What are the dietary restrictions while on this treatment?", "entities": []}
+{"text": "The previous treatment did not achieve the target outcome.", "entities": []}
+{"text": "Shared decision-making was used to choose the treatment.", "entities": []}
+{"text": "The patient's quality of life improved significantly.", "entities": []}
+{"text": "A full medication reconciliation was performed on admission.", "entities": []}
+{"text": "What support services are available for this patient?", "entities": []}
+{"text": "Please print the current medication summary.", "entities": []}
+{"text": "The discharge summary was sent to the GP.", "entities": []}
+{"text": "The patient was reviewed by the palliative care team.", "entities": []}
+{"text": "The patient requested a second opinion.", "entities": []}
+{"text": "Is it safe to prescribe Metformin to a patient with mild renal failure?", "entities": [{"start": 24, "end": 33, "label": "DRUG", "text": "Metformin"}, {"start": 52, "end": 70, "label": "CONDITION", "text": "mild renal failure"}]}
+{"text": "What is the best antibiotic for a urinary tract infection in pregnancy?", "entities": [{"start": 34, "end": 57, "label": "DISEASE", "text": "urinary tract infection"}, {"start": 61, "end": 70, "label": "CONDITION", "text": "pregnancy"}]}
+{"text": "My patient has type 2 diabetes and hypertension — what combination is safe?", "entities": [{"start": 15, "end": 30, "label": "DISEASE", "text": "type 2 diabetes"}, {"start": 35, "end": 47, "label": "DISEASE", "text": "hypertension"}]}
+{"text": "Can I prescribe Atorvastatin to a patient with hepatic cirrhosis?", "entities": [{"start": 16, "end": 28, "label": "DRUG", "text": "Atorvastatin"}, {"start": 47, "end": 64, "label": "DISEASE", "text": "hepatic cirrhosis"}]}
+{"text": "What is the first-line treatment for major depressive disorder?", "entities": [{"start": 37, "end": 62, "label": "DISEASE", "text": "major depressive disorder"}]}
+{"text": "My patient is pregnant and has epilepsy — which anticonvulsant is safest?", "entities": [{"start": 14, "end": 22, "label": "CONDITION", "text": "pregnant"}, {"start": 31, "end": 39, "label": "DISEASE", "text": "epilepsy"}]}
+{"text": "Is Lisinopril safe in a patient with bilateral renal artery stenosis?", "entities": [{"start": 3, "end": 13, "label": "DRUG", "text": "Lisinopril"}, {"start": 37, "end": 68, "label": "DISEASE", "text": "bilateral renal artery stenosis"}]}
+{"text": "What is the appropriate dose of Spironolactone in heart failure?", "entities": [{"start": 32, "end": 46, "label": "DRUG", "text": "Spironolactone"}, {"start": 50, "end": 63, "label": "DISEASE", "text": "heart failure"}]}
+{"text": "The patient has atrial fibrillation and chronic kidney disease — is Apixaban safe?", "entities": [{"start": 16, "end": 35, "label": "DISEASE", "text": "atrial fibrillation"}, {"start": 40, "end": 62, "label": "DISEASE", "text": "chronic kidney disease"}, {"start": 68, "end": 76, "label": "DRUG", "text": "Apixaban"}]}
+{"text": "Can Carvedilol be used in a patient with heart failure and asthma?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Carvedilol"}, {"start": 41, "end": 54, "label": "DISEASE", "text": "heart failure"}, {"start": 59, "end": 65, "label": "DISEASE", "text": "asthma"}]}
+{"text": "What anti-epileptic is safe in a woman of child-bearing age?", "entities": []}
+{"text": "Which anticoagulant is preferred in pregnancy complicated by deep vein thrombosis?", "entities": [{"start": 36, "end": 45, "label": "CONDITION", "text": "pregnancy"}, {"start": 61, "end": 81, "label": "DISEASE", "text": "deep vein thrombosis"}]}
+{"text": "Is it safe to use Ramipril in a patient who is breastfeeding?", "entities": [{"start": 18, "end": 26, "label": "DRUG", "text": "Ramipril"}, {"start": 47, "end": 60, "label": "CONDITION", "text": "breastfeeding"}]}
+{"text": "What is the management of gout in a patient on dialysis?", "entities": [{"start": 26, "end": 30, "label": "DISEASE", "text": "gout"}, {"start": 47, "end": 55, "label": "CONDITION", "text": "dialysis"}]}
+{"text": "My patient has Parkinson disease and psychosis — which antipsychotic is safest?", "entities": [{"start": 15, "end": 32, "label": "DISEASE", "text": "Parkinson disease"}, {"start": 37, "end": 46, "label": "DISEASE", "text": "psychosis"}]}
+{"text": "Can Valproate be used in bipolar disorder in a young woman?", "entities": [{"start": 4, "end": 13, "label": "DRUG", "text": "Valproate"}, {"start": 25, "end": 41, "label": "DISEASE", "text": "bipolar disorder"}]}
+{"text": "What is the appropriate statin for a patient with statin intolerance?", "entities": []}
+{"text": "Is Warfarin safe in a patient with severe hepatic impairment?", "entities": [{"start": 3, "end": 11, "label": "DRUG", "text": "Warfarin"}, {"start": 35, "end": 60, "label": "CONDITION", "text": "severe hepatic impairment"}]}
+{"text": "What dose of Digoxin is safe in a patient with renal impairment?", "entities": [{"start": 13, "end": 20, "label": "DRUG", "text": "Digoxin"}, {"start": 47, "end": 63, "label": "CONDITION", "text": "renal impairment"}]}
+{"text": "Can NSAIDs be used in a patient with peptic ulcer disease?", "entities": [{"start": 37, "end": 57, "label": "DISEASE", "text": "peptic ulcer disease"}]}
+{"text": "Is Methotrexate appropriate for a patient with rheumatoid arthritis and renal impairment?", "entities": [{"start": 3, "end": 15, "label": "DRUG", "text": "Methotrexate"}, {"start": 47, "end": 67, "label": "DISEASE", "text": "rheumatoid arthritis"}, {"start": 72, "end": 88, "label": "CONDITION", "text": "renal impairment"}]}
+{"text": "What monitoring is required for a patient on long-term Amiodarone?", "entities": [{"start": 55, "end": 65, "label": "DRUG", "text": "Amiodarone"}]}
+{"text": "Can Bisoprolol be used in a patient with heart failure and COPD?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Bisoprolol"}, {"start": 41, "end": 54, "label": "DISEASE", "text": "heart failure"}, {"start": 59, "end": 63, "label": "DISEASE", "text": "COPD"}]}
+{"text": "Is Topiramate appropriate for migraine prophylaxis in a woman planning a pregnancy?", "entities": [{"start": 3, "end": 13, "label": "DRUG", "text": "Topiramate"}, {"start": 30, "end": 38, "label": "DISEASE", "text": "migraine"}, {"start": 73, "end": 82, "label": "CONDITION", "text": "pregnancy"}]}
+{"text": "What is the safest analgesic in a patient with chronic kidney disease?", "entities": [{"start": 47, "end": 69, "label": "DISEASE", "text": "chronic kidney disease"}]}
+{"text": "Can Gabapentin be used for neuropathic pain in severe renal impairment?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Gabapentin"}, {"start": 27, "end": 43, "label": "DISEASE", "text": "neuropathic pain"}, {"start": 47, "end": 70, "label": "CONDITION", "text": "severe renal impairment"}]}
+{"text": "My patient has osteoporosis and renal impairment — which bisphosphonate is safe?", "entities": [{"start": 15, "end": 27, "label": "DISEASE", "text": "osteoporosis"}, {"start": 32, "end": 48, "label": "CONDITION", "text": "renal impairment"}]}
+{"text": "Is Escitalopram safe in a patient with moderate hepatic impairment?", "entities": [{"start": 3, "end": 15, "label": "DRUG", "text": "Escitalopram"}, {"start": 39, "end": 66, "label": "CONDITION", "text": "moderate hepatic impairment"}]}
+{"text": "What is the treatment for pulmonary fibrosis?", "entities": [{"start": 26, "end": 44, "label": "DISEASE", "text": "pulmonary fibrosis"}]}
+{"text": "Can Adalimumab cause reactivation of tuberculosis?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Adalimumab"}, {"start": 37, "end": 49, "label": "DISEASE", "text": "tuberculosis"}]}
+{"text": "Is Hydroxychloroquine safe during the entire pregnancy?", "entities": [{"start": 3, "end": 21, "label": "DRUG", "text": "Hydroxychloroquine"}, {"start": 45, "end": 54, "label": "CONDITION", "text": "pregnancy"}]}
+{"text": "My patient has Alzheimer disease and urinary incontinence.", "entities": [{"start": 15, "end": 32, "label": "DISEASE", "text": "Alzheimer disease"}, {"start": 37, "end": 57, "label": "SYMPTOM", "text": "urinary incontinence"}]}
+{"text": "What is the dose adjustment for Sitagliptin in renal impairment?", "entities": [{"start": 32, "end": 43, "label": "DRUG", "text": "Sitagliptin"}, {"start": 47, "end": 63, "label": "CONDITION", "text": "renal impairment"}]}
+{"text": "Can Saxagliptin cause heart failure?", "entities": [{"start": 4, "end": 15, "label": "DRUG", "text": "Saxagliptin"}, {"start": 22, "end": 35, "label": "DISEASE", "text": "heart failure"}]}
+{"text": "Is Liraglutide appropriate for weight loss in obesity?", "entities": [{"start": 3, "end": 14, "label": "DRUG", "text": "Liraglutide"}, {"start": 46, "end": 53, "label": "CONDITION", "text": "obesity"}]}
+{"text": "My patient has Crohn disease and is immunocompromised.", "entities": [{"start": 15, "end": 28, "label": "DISEASE", "text": "Crohn disease"}, {"start": 36, "end": 53, "label": "CONDITION", "text": "immunocompromised"}]}
+{"text": "What is the treatment for community-acquired pneumonia in a patient with penicillin allergy?", "entities": [{"start": 26, "end": 54, "label": "DISEASE", "text": "community-acquired pneumonia"}]}
+{"text": "Can Rosuvastatin be used in a patient on dialysis?", "entities": [{"start": 4, "end": 16, "label": "DRUG", "text": "Rosuvastatin"}, {"start": 41, "end": 49, "label": "CONDITION", "text": "dialysis"}]}
+{"text": "Is it safe to continue Aspirin in a patient who is pregnant?", "entities": [{"start": 23, "end": 30, "label": "DRUG", "text": "Aspirin"}, {"start": 51, "end": 59, "label": "CONDITION", "text": "pregnant"}]}
+{"text": "What is the appropriate anticoagulation for a patient with atrial fibrillation and severe renal impairment?", "entities": [{"start": 59, "end": 78, "label": "DISEASE", "text": "atrial fibrillation"}, {"start": 83, "end": 106, "label": "CONDITION", "text": "severe renal impairment"}]}
+{"text": "Can Sumatriptan be used for migraine in pregnancy?", "entities": [{"start": 4, "end": 15, "label": "DRUG", "text": "Sumatriptan"}, {"start": 28, "end": 36, "label": "DISEASE", "text": "migraine"}, {"start": 40, "end": 49, "label": "CONDITION", "text": "pregnancy"}]}
+{"text": "What is the management of heart failure with preserved ejection fraction?", "entities": [{"start": 26, "end": 39, "label": "DISEASE", "text": "heart failure"}]}
+{"text": "My patient has schizophrenia and diabetes — are there metabolic-neutral antipsychotics?", "entities": [{"start": 15, "end": 28, "label": "DISEASE", "text": "schizophrenia"}, {"start": 33, "end": 41, "label": "DISEASE", "text": "diabetes"}]}
+{"text": "Can Prednisolone be used long-term in a patient with osteoporosis?", "entities": [{"start": 4, "end": 16, "label": "DRUG", "text": "Prednisolone"}, {"start": 53, "end": 65, "label": "DISEASE", "text": "osteoporosis"}]}
+{"text": "What prophylaxis is needed for a patient starting Methotrexate?", "entities": [{"start": 50, "end": 62, "label": "DRUG", "text": "Methotrexate"}]}
+{"text": "Is Furosemide appropriate in a patient with gout?", "entities": [{"start": 3, "end": 13, "label": "DRUG", "text": "Furosemide"}, {"start": 44, "end": 48, "label": "DISEASE", "text": "gout"}]}
+{"text": "Can Trimethoprim be given in a patient with renal impairment?", "entities": [{"start": 4, "end": 16, "label": "DRUG", "text": "Trimethoprim"}, {"start": 44, "end": 60, "label": "CONDITION", "text": "renal impairment"}]}
+{"text": "What is the first-line treatment for irritable bowel syndrome?", "entities": [{"start": 37, "end": 61, "label": "DISEASE", "text": "irritable bowel syndrome"}]}
+{"text": "My patient has both hypothyroidism and depression.", "entities": [{"start": 20, "end": 34, "label": "DISEASE", "text": "hypothyroidism"}, {"start": 39, "end": 49, "label": "DISEASE", "text": "depression"}]}
+{"text": "Can Sertraline interact with Warfarin?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Sertraline"}, {"start": 29, "end": 37, "label": "DRUG", "text": "Warfarin"}]}
+{"text": "Is Memantine safe in a patient with severe cognitive impairment?", "entities": [{"start": 3, "end": 12, "label": "DRUG", "text": "Memantine"}, {"start": 36, "end": 63, "label": "CONDITION", "text": "severe cognitive impairment"}]}
+{"text": "What is the appropriate antibiotic for a skin infection in a patient with renal failure?", "entities": [{"start": 74, "end": 87, "label": "CONDITION", "text": "renal failure"}]}
+{"text": "Can Furosemide cause hyponatraemia?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Furosemide"}, {"start": 21, "end": 34, "label": "CONDITION", "text": "hyponatraemia"}]}
+{"text": "My patient has both migraine and epilepsy — is Topiramate appropriate?", "entities": [{"start": 20, "end": 28, "label": "DISEASE", "text": "migraine"}, {"start": 33, "end": 41, "label": "DISEASE", "text": "epilepsy"}, {"start": 47, "end": 57, "label": "DRUG", "text": "Topiramate"}]}
+{"text": "Is Amitriptyline safe in a patient with cardiac arrhythmia?", "entities": [{"start": 3, "end": 16, "label": "DRUG", "text": "Amitriptyline"}, {"start": 40, "end": 58, "label": "DISEASE", "text": "cardiac arrhythmia"}]}
+{"text": "Can Clonazepam be used for epilepsy in pregnancy?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Clonazepam"}, {"start": 27, "end": 35, "label": "DISEASE", "text": "epilepsy"}, {"start": 39, "end": 48, "label": "CONDITION", "text": "pregnancy"}]}
+{"text": "What is the appropriate analgesic for moderate pain in a patient on Warfarin?", "entities": [{"start": 68, "end": 76, "label": "DRUG", "text": "Warfarin"}]}
+{"text": "Can Gentamicin be given to a patient with severe renal impairment?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Gentamicin"}, {"start": 42, "end": 65, "label": "CONDITION", "text": "severe renal impairment"}]}
+{"text": "Is Vancomycin safe in a patient with hearing impairment?", "entities": [{"start": 3, "end": 13, "label": "DRUG", "text": "Vancomycin"}, {"start": 37, "end": 55, "label": "CONDITION", "text": "hearing impairment"}]}
+{"text": "What is the appropriate antifungal in a patient with hepatic impairment?", "entities": [{"start": 53, "end": 71, "label": "CONDITION", "text": "hepatic impairment"}]}
+{"text": "Can Aciclovir be used for varicella in a pregnant patient?", "entities": [{"start": 4, "end": 13, "label": "DRUG", "text": "Aciclovir"}, {"start": 26, "end": 35, "label": "DISEASE", "text": "varicella"}, {"start": 41, "end": 49, "label": "CONDITION", "text": "pregnant"}]}
+{"text": "Is Oseltamivir appropriate for influenza in a patient with severe renal impairment?", "entities": [{"start": 3, "end": 14, "label": "DRUG", "text": "Oseltamivir"}, {"start": 31, "end": 40, "label": "DISEASE", "text": "influenza"}, {"start": 59, "end": 82, "label": "CONDITION", "text": "severe renal impairment"}]}
+{"text": "My patient has both psoriasis and psoriatic arthritis.", "entities": [{"start": 20, "end": 29, "label": "DISEASE", "text": "psoriasis"}, {"start": 34, "end": 53, "label": "DISEASE", "text": "psoriatic arthritis"}]}
+{"text": "What biologic is appropriate for moderate to severe psoriasis with hepatic impairment?", "entities": [{"start": 52, "end": 61, "label": "DISEASE", "text": "psoriasis"}, {"start": 67, "end": 85, "label": "CONDITION", "text": "hepatic impairment"}]}
+{"text": "Can Prednisolone be given intravenously for an acute asthma attack?", "entities": [{"start": 4, "end": 16, "label": "DRUG", "text": "Prednisolone"}, {"start": 53, "end": 59, "label": "DISEASE", "text": "asthma"}]}
+{"text": "Is Salbutamol safe during pregnancy for acute asthma?", "entities": [{"start": 3, "end": 13, "label": "DRUG", "text": "Salbutamol"}, {"start": 26, "end": 35, "label": "CONDITION", "text": "pregnancy"}, {"start": 46, "end": 52, "label": "DISEASE", "text": "asthma"}]}
+{"text": "What is the management of chronic obstructive pulmonary disease exacerbation?", "entities": [{"start": 26, "end": 63, "label": "DISEASE", "text": "chronic obstructive pulmonary disease"}]}
+{"text": "Can Tiotropium be used in COPD with a prolonged QT interval?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Tiotropium"}, {"start": 26, "end": 30, "label": "DISEASE", "text": "COPD"}, {"start": 38, "end": 59, "label": "CONDITION", "text": "prolonged QT interval"}]}
+{"text": "Is Montelukast safe in a pregnant patient with asthma?", "entities": [{"start": 3, "end": 14, "label": "DRUG", "text": "Montelukast"}, {"start": 25, "end": 33, "label": "CONDITION", "text": "pregnant"}, {"start": 47, "end": 53, "label": "DISEASE", "text": "asthma"}]}
+{"text": "What is the appropriate proton pump inhibitor in a patient with severe hepatic impairment?", "entities": [{"start": 71, "end": 89, "label": "CONDITION", "text": "hepatic impairment"}]}
+{"text": "Can Esomeprazole interact with Clopidogrel in a patient post-myocardial infarction?", "entities": [{"start": 4, "end": 16, "label": "DRUG", "text": "Esomeprazole"}, {"start": 31, "end": 42, "label": "DRUG", "text": "Clopidogrel"}, {"start": 61, "end": 82, "label": "DISEASE", "text": "myocardial infarction"}]}
+{"text": "Is Metronidazole safe during the first trimester of pregnancy?", "entities": [{"start": 3, "end": 16, "label": "DRUG", "text": "Metronidazole"}, {"start": 52, "end": 61, "label": "CONDITION", "text": "pregnancy"}]}
+{"text": "What antibiotic is safe for a chest infection in a patient with hepatic dysfunction?", "entities": [{"start": 64, "end": 83, "label": "CONDITION", "text": "hepatic dysfunction"}]}
+{"text": "Can Ciprofloxacin be given to a patient with glucose-6-phosphate dehydrogenase deficiency?", "entities": [{"start": 4, "end": 17, "label": "DRUG", "text": "Ciprofloxacin"}, {"start": 45, "end": 89, "label": "CONDITION", "text": "glucose-6-phosphate dehydrogenase deficiency"}]}
+{"text": "Is Fluconazole safe in a patient with severe hepatic impairment?", "entities": [{"start": 3, "end": 14, "label": "DRUG", "text": "Fluconazole"}, {"start": 38, "end": 63, "label": "CONDITION", "text": "severe hepatic impairment"}]}
+{"text": "What is the appropriate management of acute gout in a patient with renal failure?", "entities": [{"start": 44, "end": 48, "label": "DISEASE", "text": "gout"}, {"start": 67, "end": 80, "label": "CONDITION", "text": "renal failure"}]}
+{"text": "Can Colchicine be used in gout with severe renal impairment?", "entities": [{"start": 4, "end": 14, "label": "DRUG", "text": "Colchicine"}, {"start": 26, "end": 30, "label": "DISEASE", "text": "gout"}, {"start": 36, "end": 59, "label": "CONDITION", "text": "severe renal impairment"}]}
+{"text": "Is Allopurinol safe to start during an acute gout attack?", "entities": [{"start": 3, "end": 14, "label": "DRUG", "text": "Allopurinol"}, {"start": 45, "end": 49, "label": "DISEASE", "text": "gout"}]}
+{"text": "My patient has both hypertension and gout — which antihypertensive is appropriate?", "entities": [{"start": 20, "end": 32, "label": "DISEASE", "text": "hypertension"}, {"start": 37, "end": 41, "label": "DISEASE", "text": "gout"}]}
+{"text": "What monitoring is required for a patient on Hydroxychloroquine for lupus?", "entities": [{"start": 45, "end": 63, "label": "DRUG", "text": "Hydroxychloroquine"}, {"start": 68, "end": 73, "label": "DISEASE", "text": "lupus"}]}
+{"text": "Is Sulfasalazine safe in a patient with G6PD deficiency?", "entities": [{"start": 3, "end": 16, "label": "DRUG", "text": "Sulfasalazine"}, {"start": 40, "end": 55, "label": "CONDITION", "text": "G6PD deficiency"}]}
+{"text": "Can Leflunomide be used in rheumatoid arthritis during pregnancy?", "entities": [{"start": 4, "end": 15, "label": "DRUG", "text": "Leflunomide"}, {"start": 27, "end": 47, "label": "DISEASE", "text": "rheumatoid arthritis"}, {"start": 55, "end": 64, "label": "CONDITION", "text": "pregnancy"}]}
+{"text": "What is the treatment for osteoporosis in a patient with severe renal impairment?", "entities": [{"start": 26, "end": 38, "label": "DISEASE", "text": "osteoporosis"}, {"start": 57, "end": 80, "label": "CONDITION", "text": "severe renal impairment"}]}
+{"text": "Is Denosumab safe in a patient with low glomerular filtration rate?", "entities": [{"start": 3, "end": 12, "label": "DRUG", "text": "Denosumab"}, {"start": 36, "end": 66, "label": "CONDITION", "text": "low glomerular filtration rate"}]}
+{"text": "Can Zoledronic acid be given to a patient with mild renal impairment?", "entities": [{"start": 47, "end": 68, "label": "CONDITION", "text": "mild renal impairment"}]}
+{"text": "What is the safest antidepressant in cardiac disease?", "entities": [{"start": 37, "end": 52, "label": "DISEASE", "text": "cardiac disease"}]}
+{"text": "Is Mirtazapine weight-neutral in a patient with obesity?", "entities": [{"start": 3, "end": 14, "label": "DRUG", "text": "Mirtazapine"}, {"start": 48, "end": 55, "label": "CONDITION", "text": "obesity"}]}
+{"text": "Can Venlafaxine be used in hypertension?", "entities": [{"start": 4, "end": 15, "label": "DRUG", "text": "Venlafaxine"}, {"start": 27, "end": 39, "label": "DISEASE", "text": "hypertension"}]}
+{"text": "What is the risk of bleeding with Clopidogrel and Aspirin together?", "entities": [{"start": 34, "end": 45, "label": "DRUG", "text": "Clopidogrel"}, {"start": 50, "end": 57, "label": "DRUG", "text": "Aspirin"}]}
+{"text": "Is Apixaban safer than Warfarin in atrial fibrillation with renal impairment?", "entities": [{"start": 3, "end": 11, "label": "DRUG", "text": "Apixaban"}, {"start": 23, "end": 31, "label": "DRUG", "text": "Warfarin"}, {"start": 35, "end": 54, "label": "DISEASE", "text": "atrial fibrillation"}, {"start": 60, "end": 76, "label": "CONDITION", "text": "renal impairment"}]}
+{"text": "My patient has deep vein thrombosis and is in the third trimester of pregnancy.", "entities": [{"start": 15, "end": 35, "label": "DISEASE", "text": "deep vein thrombosis"}, {"start": 50, "end": 65, "label": "CONDITION", "text": "third trimester"}]}
+{"text": "What is the preferred treatment for pulmonary embolism in pregnancy?", "entities": [{"start": 36, "end": 54, "label": "DISEASE", "text": "pulmonary embolism"}, {"start": 58, "end": 67, "label": "CONDITION", "text": "pregnancy"}]}
+{"text": "Can Heparin be used safely in breastfeeding?", "entities": [{"start": 30, "end": 43, "label": "CONDITION", "text": "breastfeeding"}]}
+{"text": "What dose of Metformin is safe in chronic kidney disease?", "entities": [{"start": 13, "end": 22, "label": "DRUG", "text": "Metformin"}, {"start": 34, "end": 56, "label": "DISEASE", "text": "chronic kidney disease"}]}
+{"text": "Is Insulin Injection Soluble + Biphasic Isophane Insulin available as a mixed preparation?", "entities": [{"start": 3, "end": 56, "label": "DRUG", "text": "Insulin Injection Soluble + Biphasic Isophane Insulin"}]}
+{"text": "Can Ramipril + Metoprolol Succinate Extended Release be used in heart failure?", "entities": [{"start": 4, "end": 52, "label": "DRUG", "text": "Ramipril + Metoprolol Succinate Extended Release"}, {"start": 64, "end": 77, "label": "DISEASE", "text": "heart failure"}]}
+{"text": "What is the indication for Glimepiride + Pioglitazone + Metformin Hydrochloride Extended Release?", "entities": [{"start": 27, "end": 96, "label": "DRUG", "text": "Glimepiride + Pioglitazone + Metformin Hydrochloride Extended Release"}]}
+{"text": "The 78-year-old patient with Alzheimer disease and moderate renal impairment is on Donepezil.", "entities": [{"start": 29, "end": 46, "label": "DISEASE", "text": "Alzheimer disease"}, {"start": 51, "end": 76, "label": "CONDITION", "text": "moderate renal impairment"}, {"start": 83, "end": 92, "label": "DRUG", "text": "Donepezil"}]}
+{"text": "A woman in her second trimester with type 1 diabetes and hypertension requires medication review.", "entities": [{"start": 15, "end": 31, "label": "CONDITION", "text": "second trimester"}, {"start": 37, "end": 52, "label": "DISEASE", "text": "type 1 diabetes"}, {"start": 57, "end": 69, "label": "DISEASE", "text": "hypertension"}]}
+{"text": "Patient complaining of headache and blurred vision — started Metformin two weeks ago.", "entities": [{"start": 23, "end": 31, "label": "SYMPTOM", "text": "headache"}, {"start": 36, "end": 50, "label": "SYMPTOM", "text": "blurred vision"}, {"start": 61, "end": 70, "label": "DRUG", "text": "Metformin"}]}
+{"text": "The teenager was diagnosed with type 1 diabetes and presents with excessive thirst and excessive urination.", "entities": [{"start": 32, "end": 47, "label": "DISEASE", "text": "type 1 diabetes"}, {"start": 66, "end": 82, "label": "SYMPTOM", "text": "excessive thirst"}, {"start": 87, "end": 106, "label": "SYMPTOM", "text": "excessive urination"}]}
+{"text": "Post-transplant patient on immunosuppression with recent fever and productive cough.", "entities": [{"start": 27, "end": 44, "label": "CONDITION", "text": "immunosuppression"}, {"start": 57, "end": 62, "label": "SYMPTOM", "text": "fever"}, {"start": 67, "end": 83, "label": "SYMPTOM", "text": "productive cough"}]}
+{"text": "The patient has a long history of smoking and presents with dyspnea and productive cough.", "entities": [{"start": 60, "end": 67, "label": "SYMPTOM", "text": "dyspnea"}, {"start": 72, "end": 88, "label": "SYMPTOM", "text": "productive cough"}]}
+{"text": "Elderly patient with multiple comorbidities including heart failure, type 2 diabetes, and renal impairment.", "entities": [{"start": 54, "end": 67, "label": "DISEASE", "text": "heart failure"}, {"start": 69, "end": 84, "label": "DISEASE", "text": "type 2 diabetes"}, {"start": 90, "end": 106, "label": "CONDITION", "text": "renal impairment"}]}
+{"text": "The patient is a 55-year-old man with stable angina and erectile dysfunction.", "entities": [{"start": 38, "end": 51, "label": "DISEASE", "text": "stable angina"}]}
+{"text": "A patient post-coronary artery bypass grafting on Aspirin and Atorvastatin.", "entities": [{"start": 50, "end": 57, "label": "DRUG", "text": "Aspirin"}, {"start": 62, "end": 74, "label": "DRUG", "text": "Atorvastatin"}]}
+{"text": "She has had three episodes of deep vein thrombosis and is now considering long-term anticoagulation.", "entities": [{"start": 30, "end": 50, "label": "DISEASE", "text": "deep vein thrombosis"}]}
+{"text": "Newly diagnosed schizophrenia in a 22-year-old with obesity and metabolic syndrome.", "entities": [{"start": 16, "end": 29, "label": "DISEASE", "text": "schizophrenia"}, {"start": 52, "end": 59, "label": "CONDITION", "text": "obesity"}, {"start": 64, "end": 82, "label": "CONDITION", "text": "metabolic syndrome"}]}
+{"text": "The patient has resistant hypertension on three antihypertensives and still has poorly controlled blood pressure.", "entities": [{"start": 26, "end": 38, "label": "DISEASE", "text": "hypertension"}]}
+{"text": "She is eight months pregnant, has gestational diabetes, and now reports ankle oedema.", "entities": [{"start": 20, "end": 28, "label": "CONDITION", "text": "pregnant"}, {"start": 34, "end": 54, "label": "CONDITION", "text": "gestational diabetes"}, {"start": 72, "end": 84, "label": "SYMPTOM", "text": "ankle oedema"}]}
+{"text": "A 6-year-old child with epilepsy and learning disability on Levetiracetam.", "entities": [{"start": 24, "end": 32, "label": "DISEASE", "text": "epilepsy"}, {"start": 37, "end": 56, "label": "CONDITION", "text": "learning disability"}, {"start": 60, "end": 73, "label": "DRUG", "text": "Levetiracetam"}]}
+{"text": "The patient had a mild myocardial infarction and is now on dual antiplatelet therapy.", "entities": [{"start": 23, "end": 44, "label": "DISEASE", "text": "myocardial infarction"}]}
+{"text": "She has fibromyalgia, chronic fatigue syndrome, and generalised anxiety disorder.", "entities": [{"start": 8, "end": 20, "label": "DISEASE", "text": "fibromyalgia"}, {"start": 22, "end": 46, "label": "DISEASE", "text": "chronic fatigue syndrome"}, {"start": 52, "end": 80, "label": "DISEASE", "text": "generalised anxiety disorder"}]}
+{"text": "The patient has both Crohn disease and psoriasis and is being considered for biologic therapy.", "entities": [{"start": 21, "end": 34, "label": "DISEASE", "text": "Crohn disease"}, {"start": 39, "end": 48, "label": "DISEASE", "text": "psoriasis"}]}
+{"text": "He has a pacemaker and is taking Amiodarone for persistent atrial fibrillation.", "entities": [{"start": 33, "end": 43, "label": "DRUG", "text": "Amiodarone"}, {"start": 59, "end": 78, "label": "DISEASE", "text": "atrial fibrillation"}]}
+{"text": "A patient on dialysis with diabetes and anaemia.", "entities": [{"start": 13, "end": 21, "label": "CONDITION", "text": "dialysis"}, {"start": 27, "end": 35, "label": "DISEASE", "text": "diabetes"}, {"start": 40, "end": 47, "label": "CONDITION", "text": "anaemia"}]}
+{"text": "The patient has active tuberculosis and is immunocompromised following renal transplant.", "entities": [{"start": 23, "end": 35, "label": "DISEASE", "text": "tuberculosis"}, {"start": 43, "end": 60, "label": "CONDITION", "text": "immunocompromised"}]}
+{"text": "She reports nausea, dizziness, and headache since starting the new blood pressure medication.", "entities": [{"start": 12, "end": 18, "label": "SYMPTOM", "text": "nausea"}, {"start": 20, "end": 29, "label": "SYMPTOM", "text": "dizziness"}, {"start": 35, "end": 43, "label": "SYMPTOM", "text": "headache"}]}
+{"text": "He has mixed hyperlipidaemia and is not tolerating Simvastatin due to myalgia.", "entities": [{"start": 51, "end": 62, "label": "DRUG", "text": "Simvastatin"}, {"start": 70, "end": 77, "label": "SYMPTOM", "text": "myalgia"}]}
+{"text": "A patient with chronic kidney disease and anaemia is started on Erythropoietin and Iron.", "entities": [{"start": 15, "end": 37, "label": "DISEASE", "text": "chronic kidney disease"}, {"start": 42, "end": 49, "label": "CONDITION", "text": "anaemia"}]}
+{"text": "She presented with sudden-onset severe headache, photophobia, and neck stiffness.", "entities": [{"start": 39, "end": 47, "label": "SYMPTOM", "text": "headache"}, {"start": 49, "end": 60, "label": "SYMPTOM", "text": "photophobia"}, {"start": 66, "end": 80, "label": "SYMPTOM", "text": "neck stiffness"}]}
+{"text": "He has heart failure with reduced ejection fraction and is now experiencing worsening dyspnea.", "entities": [{"start": 7, "end": 20, "label": "DISEASE", "text": "heart failure"}, {"start": 86, "end": 93, "label": "SYMPTOM", "text": "dyspnea"}]}
+{"text": "The patient has poorly controlled type 2 diabetes with HbA1c above target.", "entities": [{"start": 34, "end": 49, "label": "DISEASE", "text": "type 2 diabetes"}]}
+{"text": "A 45-year-old woman with rheumatoid arthritis, osteoporosis, and mild hepatic impairment.", "entities": [{"start": 25, "end": 45, "label": "DISEASE", "text": "rheumatoid arthritis"}, {"start": 47, "end": 59, "label": "DISEASE", "text": "osteoporosis"}, {"start": 65, "end": 88, "label": "CONDITION", "text": "mild hepatic impairment"}]}
+{"text": "He is allergic to penicillin and has community-acquired pneumonia — what alternative is safe?", "entities": [{"start": 37, "end": 65, "label": "DISEASE", "text": "community-acquired pneumonia"}]}
+{"text": "A patient with epilepsy and bipolar disorder on multiple medications.", "entities": [{"start": 15, "end": 23, "label": "DISEASE", "text": "epilepsy"}, {"start": 28, "end": 44, "label": "DISEASE", "text": "bipolar disorder"}]}
+{"text": "She has stage 4 chronic kidney disease and is developing secondary hyperparathyroidism.", "entities": [{"start": 16, "end": 38, "label": "DISEASE", "text": "chronic kidney disease"}]}
+{"text": "The patient has both Parkinson disease and dementia with cognitive impairment.", "entities": [{"start": 21, "end": 38, "label": "DISEASE", "text": "Parkinson disease"}, {"start": 43, "end": 51, "label": "DISEASE", "text": "dementia"}, {"start": 57, "end": 77, "label": "CONDITION", "text": "cognitive impairment"}]}
+{"text": "He is on Clozapine for treatment-resistant schizophrenia and requires regular blood monitoring.", "entities": [{"start": 9, "end": 18, "label": "DRUG", "text": "Clozapine"}, {"start": 43, "end": 56, "label": "DISEASE", "text": "schizophrenia"}]}
+{"text": "A patient with sickle cell disease and acute chest syndrome.", "entities": [{"start": 15, "end": 34, "label": "DISEASE", "text": "sickle cell disease"}, {"start": 39, "end": 59, "label": "DISEASE", "text": "acute chest syndrome"}]}
+{"text": "She has non-Hodgkin lymphoma and is in complete remission after chemotherapy.", "entities": [{"start": 8, "end": 28, "label": "DISEASE", "text": "non-Hodgkin lymphoma"}, {"start": 64, "end": 76, "label": "CONDITION", "text": "chemotherapy"}]}
+{"text": "The patient was admitted with septic shock and multi-organ failure.", "entities": [{"start": 30, "end": 42, "label": "CONDITION", "text": "septic shock"}, {"start": 47, "end": 66, "label": "CONDITION", "text": "multi-organ failure"}]}
+{"text": "A dialysis patient with hypertension, anaemia, and secondary osteoporosis.", "entities": [{"start": 2, "end": 10, "label": "CONDITION", "text": "dialysis"}, {"start": 24, "end": 36, "label": "DISEASE", "text": "hypertension"}, {"start": 38, "end": 45, "label": "CONDITION", "text": "anaemia"}, {"start": 61, "end": 73, "label": "DISEASE", "text": "osteoporosis"}]}
+{"text": "He reports palpitations and dyspnea and has been found to be in new-onset atrial fibrillation.", "entities": [{"start": 11, "end": 23, "label": "SYMPTOM", "text": "palpitations"}, {"start": 28, "end": 35, "label": "SYMPTOM", "text": "dyspnea"}, {"start": 74, "end": 93, "label": "DISEASE", "text": "atrial fibrillation"}]}
+{"text": "She has an acute exacerbation of COPD with worsening dyspnea and productive cough.", "entities": [{"start": 33, "end": 37, "label": "DISEASE", "text": "COPD"}, {"start": 53, "end": 60, "label": "SYMPTOM", "text": "dyspnea"}, {"start": 65, "end": 81, "label": "SYMPTOM", "text": "productive cough"}]}
+{"text": "The patient has advanced colorectal cancer and is on palliative chemotherapy.", "entities": [{"start": 25, "end": 42, "label": "DISEASE", "text": "colorectal cancer"}, {"start": 64, "end": 76, "label": "CONDITION", "text": "chemotherapy"}]}
+{"text": "A patient with hypothyroidism reports dry skin and hair loss.", "entities": [{"start": 15, "end": 29, "label": "DISEASE", "text": "hypothyroidism"}, {"start": 38, "end": 46, "label": "SYMPTOM", "text": "dry skin"}, {"start": 51, "end": 60, "label": "SYMPTOM", "text": "hair loss"}]}
+{"text": "He reports tremors, rigidity, and bradykinesia — likely early Parkinson disease.", "entities": [{"start": 11, "end": 18, "label": "SYMPTOM", "text": "tremors"}, {"start": 20, "end": 28, "label": "SYMPTOM", "text": "rigidity"}, {"start": 34, "end": 46, "label": "SYMPTOM", "text": "bradykinesia"}, {"start": 62, "end": 79, "label": "DISEASE", "text": "Parkinson disease"}]}
+{"text": "She has osteoporosis with a recent vertebral fracture and severe back pain.", "entities": [{"start": 8, "end": 20, "label": "DISEASE", "text": "osteoporosis"}, {"start": 65, "end": 74, "label": "SYMPTOM", "text": "back pain"}]}
+{"text": "The patient has both pulmonary embolism and severe hepatic impairment.", "entities": [{"start": 21, "end": 39, "label": "DISEASE", "text": "pulmonary embolism"}, {"start": 44, "end": 69, "label": "CONDITION", "text": "severe hepatic impairment"}]}
+{"text": "A patient with systemic lupus erythematosus and lupus nephritis.", "entities": [{"start": 15, "end": 43, "label": "DISEASE", "text": "systemic lupus erythematosus"}, {"start": 48, "end": 63, "label": "DISEASE", "text": "lupus nephritis"}]}
+{"text": "She has Graves disease and is currently breastfeeding.", "entities": [{"start": 8, "end": 22, "label": "DISEASE", "text": "Graves disease"}, {"start": 40, "end": 53, "label": "CONDITION", "text": "breastfeeding"}]}
+{"text": "He has acromegaly and type 2 diabetes.", "entities": [{"start": 7, "end": 17, "label": "DISEASE", "text": "acromegaly"}, {"start": 22, "end": 37, "label": "DISEASE", "text": "type 2 diabetes"}]}
+{"text": "The patient has multiple myeloma and hypercalcaemia and bone pain.", "entities": [{"start": 16, "end": 32, "label": "DISEASE", "text": "multiple myeloma"}, {"start": 37, "end": 51, "label": "CONDITION", "text": "hypercalcaemia"}, {"start": 56, "end": 65, "label": "SYMPTOM", "text": "bone pain"}]}
+{"text": "A woman with polycystic ovary syndrome and insulin resistance is asking about Metformin.", "entities": [{"start": 13, "end": 38, "label": "CONDITION", "text": "polycystic ovary syndrome"}, {"start": 43, "end": 61, "label": "CONDITION", "text": "insulin resistance"}, {"start": 78, "end": 87, "label": "DRUG", "text": "Metformin"}]}
+{"text": "He has treatment-resistant depression and is being considered for Lithium augmentation.", "entities": [{"start": 27, "end": 37, "label": "DISEASE", "text": "depression"}, {"start": 66, "end": 73, "label": "DRUG", "text": "Lithium"}]}
+{"text": "She has both generalised anxiety disorder and irritable bowel syndrome.", "entities": [{"start": 13, "end": 41, "label": "DISEASE", "text": "generalised anxiety disorder"}, {"start": 46, "end": 70, "label": "DISEASE", "text": "irritable bowel syndrome"}]}
+{"text": "The patient is elderly with frailty, hypertension, and mild cognitive impairment.", "entities": [{"start": 28, "end": 35, "label": "CONDITION", "text": "frailty"}, {"start": 37, "end": 49, "label": "DISEASE", "text": "hypertension"}, {"start": 55, "end": 80, "label": "CONDITION", "text": "mild cognitive impairment"}]}
+{"text": "He has bilateral peripheral neuropathy and type 2 diabetes.", "entities": [{"start": 17, "end": 38, "label": "DISEASE", "text": "peripheral neuropathy"}, {"start": 43, "end": 58, "label": "DISEASE", "text": "type 2 diabetes"}]}
+{"text": "A patient post-stroke on Clopidogrel with a history of peptic ulcer disease.", "entities": [{"start": 25, "end": 36, "label": "DRUG", "text": "Clopidogrel"}, {"start": 55, "end": 75, "label": "DISEASE", "text": "peptic ulcer disease"}]}
+{"text": "She reports severe nausea and vomiting in the first trimester of pregnancy.", "entities": [{"start": 19, "end": 25, "label": "SYMPTOM", "text": "nausea"}, {"start": 30, "end": 38, "label": "SYMPTOM", "text": "vomiting"}, {"start": 65, "end": 74, "label": "CONDITION", "text": "pregnancy"}]}
+{"text": "The patient has hereditary haemochromatosis and elevated ferritin.", "entities": [{"start": 16, "end": 43, "label": "DISEASE", "text": "hereditary haemochromatosis"}]}
+{"text": "He has acute kidney injury on a background of chronic kidney disease.", "entities": [{"start": 7, "end": 26, "label": "DISEASE", "text": "acute kidney injury"}, {"start": 46, "end": 68, "label": "DISEASE", "text": "chronic kidney disease"}]}
+{"text": "She has resistant atrial fibrillation and is awaiting ablation.", "entities": [{"start": 18, "end": 37, "label": "DISEASE", "text": "atrial fibrillation"}]}
+{"text": "The patient reports chest pain, shortness of breath, and palpitations together.", "entities": [{"start": 20, "end": 30, "label": "SYMPTOM", "text": "chest pain"}, {"start": 32, "end": 51, "label": "SYMPTOM", "text": "shortness of breath"}, {"start": 57, "end": 69, "label": "SYMPTOM", "text": "palpitations"}]}
+{"text": "He has both giant cell arteritis and polymyalgia rheumatica on long-term Prednisolone.", "entities": [{"start": 12, "end": 32, "label": "DISEASE", "text": "giant cell arteritis"}, {"start": 37, "end": 59, "label": "DISEASE", "text": "polymyalgia rheumatica"}, {"start": 73, "end": 85, "label": "DRUG", "text": "Prednisolone"}]}
+{"text": "A patient with recurrent urinary tract infections and chronic kidney disease.", "entities": [{"start": 25, "end": 49, "label": "DISEASE", "text": "urinary tract infections"}, {"start": 54, "end": 76, "label": "DISEASE", "text": "chronic kidney disease"}]}
+{"text": "She has Gilbert syndrome and mild jaundice.", "entities": [{"start": 8, "end": 24, "label": "DISEASE", "text": "Gilbert syndrome"}, {"start": 34, "end": 42, "label": "SYMPTOM", "text": "jaundice"}]}
+{"text": "The patient has coeliac disease and iron deficiency anaemia.", "entities": [{"start": 16, "end": 31, "label": "DISEASE", "text": "coeliac disease"}, {"start": 36, "end": 59, "label": "DISEASE", "text": "iron deficiency anaemia"}]}
+{"text": "He has lymphoma and is on chemotherapy, reporting profound fatigue and night sweats.", "entities": [{"start": 7, "end": 15, "label": "DISEASE", "text": "lymphoma"}, {"start": 26, "end": 38, "label": "CONDITION", "text": "chemotherapy"}, {"start": 59, "end": 66, "label": "SYMPTOM", "text": "fatigue"}, {"start": 71, "end": 83, "label": "SYMPTOM", "text": "night sweats"}]}
+{"text": "A patient with both asthma and nasal polyps.", "entities": [{"start": 20, "end": 26, "label": "DISEASE", "text": "asthma"}, {"start": 31, "end": 43, "label": "DISEASE", "text": "nasal polyps"}]}
+{"text": "She has Cushing syndrome and hypertension and obesity.", "entities": [{"start": 8, "end": 24, "label": "DISEASE", "text": "Cushing syndrome"}, {"start": 29, "end": 41, "label": "DISEASE", "text": "hypertension"}, {"start": 46, "end": 53, "label": "CONDITION", "text": "obesity"}]}
+{"text": "The patient has been diagnosed with reactive arthritis.", "entities": [{"start": 36, "end": 54, "label": "DISEASE", "text": "reactive arthritis"}]}
+{"text": "He has juvenile idiopathic arthritis on Methotrexate.", "entities": [{"start": 7, "end": 36, "label": "DISEASE", "text": "juvenile idiopathic arthritis"}, {"start": 40, "end": 52, "label": "DRUG", "text": "Methotrexate"}]}
+{"text": "A patient with ankylosing spondylitis reports morning stiffness and back pain.", "entities": [{"start": 15, "end": 37, "label": "DISEASE", "text": "ankylosing spondylitis"}, {"start": 46, "end": 63, "label": "SYMPTOM", "text": "morning stiffness"}, {"start": 68, "end": 77, "label": "SYMPTOM", "text": "back pain"}]}
+{"text": "She has idiopathic pulmonary hypertension and right heart failure.", "entities": [{"start": 8, "end": 41, "label": "DISEASE", "text": "idiopathic pulmonary hypertension"}, {"start": 46, "end": 65, "label": "DISEASE", "text": "right heart failure"}]}
+{"text": "The patient has Marfan syndrome and aortic regurgitation.", "entities": [{"start": 16, "end": 31, "label": "DISEASE", "text": "Marfan syndrome"}, {"start": 36, "end": 56, "label": "DISEASE", "text": "aortic regurgitation"}]}
+{"text": "He has tuberous sclerosis and epilepsy.", "entities": [{"start": 7, "end": 25, "label": "DISEASE", "text": "tuberous sclerosis"}, {"start": 30, "end": 38, "label": "DISEASE", "text": "epilepsy"}]}
+{"text": "A patient with neurofibromatosis type 1 and cognitive impairment.", "entities": [{"start": 15, "end": 39, "label": "DISEASE", "text": "neurofibromatosis type 1"}, {"start": 44, "end": 64, "label": "CONDITION", "text": "cognitive impairment"}]}
+{"text": "She has Noonan syndrome and hypertrophic cardiomyopathy.", "entities": [{"start": 8, "end": 23, "label": "DISEASE", "text": "Noonan syndrome"}, {"start": 28, "end": 55, "label": "DISEASE", "text": "hypertrophic cardiomyopathy"}]}
+{"text": "The patient has Turner syndrome and primary amenorrhoea.", "entities": [{"start": 16, "end": 31, "label": "DISEASE", "text": "Turner syndrome"}, {"start": 36, "end": 55, "label": "DISEASE", "text": "primary amenorrhoea"}]}
+{"text": "He has Down syndrome and hypothyroidism.", "entities": [{"start": 7, "end": 20, "label": "DISEASE", "text": "Down syndrome"}, {"start": 25, "end": 39, "label": "DISEASE", "text": "hypothyroidism"}]}
+{"text": "A patient with Prader-Willi syndrome and obesity.", "entities": [{"start": 15, "end": 36, "label": "DISEASE", "text": "Prader-Willi syndrome"}, {"start": 41, "end": 48, "label": "CONDITION", "text": "obesity"}]}
+{"text": "She has DiGeorge syndrome and immune deficiency.", "entities": [{"start": 8, "end": 25, "label": "DISEASE", "text": "DiGeorge syndrome"}, {"start": 30, "end": 47, "label": "CONDITION", "text": "immune deficiency"}]}
+{"text": "The patient has fragile X syndrome and autism spectrum disorder.", "entities": [{"start": 16, "end": 34, "label": "DISEASE", "text": "fragile X syndrome"}, {"start": 39, "end": 63, "label": "DISEASE", "text": "autism spectrum disorder"}]}
+{"text": "He reports loss of balance and vertigo on starting Gentamicin.", "entities": [{"start": 11, "end": 26, "label": "SYMPTOM", "text": "loss of balance"}, {"start": 31, "end": 38, "label": "SYMPTOM", "text": "vertigo"}, {"start": 51, "end": 61, "label": "DRUG", "text": "Gentamicin"}]}
+{"text": "A patient with chronic liver disease and hepatic encephalopathy.", "entities": [{"start": 15, "end": 36, "label": "DISEASE", "text": "chronic liver disease"}, {"start": 41, "end": 63, "label": "DISEASE", "text": "hepatic encephalopathy"}]}
+{"text": "She has pre-eclampsia and is admitted for blood pressure control.", "entities": [{"start": 8, "end": 21, "label": "CONDITION", "text": "pre-eclampsia"}]}
+{"text": "The patient has both haemophilia A and hepatitis C", "entities": [{"start": 21, "end": 34, "label": "DISEASE", "text": "haemophilia A"}, {"start": 39, "end": 50, "label": "DISEASE", "text": "hepatitis C"}]}
+{"text": "He has hepatitis B and is on antiviral therapy.", "entities": [{"start": 7, "end": 18, "label": "DISEASE", "text": "hepatitis B"}]}
+{"text": "A patient with HIV and tuberculosis co-infection.", "entities": [{"start": 15, "end": 18, "label": "DISEASE", "text": "HIV"}, {"start": 23, "end": 35, "label": "DISEASE", "text": "tuberculosis"}]}
+{"text": "She has malaria and is pregnant.", "entities": [{"start": 8, "end": 15, "label": "DISEASE", "text": "malaria"}, {"start": 23, "end": 31, "label": "CONDITION", "text": "pregnant"}]}
+{"text": "The patient has dengue fever and thrombocytopenia.", "entities": [{"start": 16, "end": 28, "label": "DISEASE", "text": "dengue fever"}, {"start": 33, "end": 49, "label": "CONDITION", "text": "thrombocytopenia"}]}
+{"text": "He has typhoid fever and is in the second week of illness.", "entities": [{"start": 7, "end": 20, "label": "DISEASE", "text": "typhoid fever"}]}
+{"text": "A patient with leptospirosis and acute kidney injury.", "entities": [{"start": 15, "end": 28, "label": "DISEASE", "text": "leptospirosis"}, {"start": 33, "end": 52, "label": "DISEASE", "text": "acute kidney injury"}]}
+{"text": "She has meningococcal meningitis and septic shock.", "entities": [{"start": 8, "end": 32, "label": "DISEASE", "text": "meningococcal meningitis"}, {"start": 37, "end": 49, "label": "CONDITION", "text": "septic shock"}]}
+{"text": "The patient has bacterial endocarditis and reports fever and night sweats.", "entities": [{"start": 16, "end": 38, "label": "DISEASE", "text": "bacterial endocarditis"}, {"start": 51, "end": 56, "label": "SYMPTOM", "text": "fever"}, {"start": 61, "end": 73, "label": "SYMPTOM", "text": "night sweats"}]}
+{"text": "He has aspergillosis and is immunocompromised.", "entities": [{"start": 7, "end": 20, "label": "DISEASE", "text": "aspergillosis"}, {"start": 28, "end": 45, "label": "CONDITION", "text": "immunocompromised"}]}
+{"text": "A patient with cryptococcal meningitis and HIV.", "entities": [{"start": 15, "end": 38, "label": "DISEASE", "text": "cryptococcal meningitis"}, {"start": 43, "end": 46, "label": "DISEASE", "text": "HIV"}]}
+{"text": "She has Pneumocystis pneumonia and moderate renal impairment.", "entities": [{"start": 8, "end": 30, "label": "DISEASE", "text": "Pneumocystis pneumonia"}, {"start": 35, "end": 60, "label": "CONDITION", "text": "moderate renal impairment"}]}
+{"text": "The patient has chronic Lyme disease and joint pain.", "entities": [{"start": 24, "end": 36, "label": "DISEASE", "text": "Lyme disease"}, {"start": 41, "end": 51, "label": "SYMPTOM", "text": "joint pain"}]}
+{"text": "He has Q fever and hepatitis.", "entities": [{"start": 7, "end": 14, "label": "DISEASE", "text": "Q fever"}, {"start": 19, "end": 28, "label": "DISEASE", "text": "hepatitis"}]}
+{"text": "A patient with cat scratch disease and swollen lymph nodes.", "entities": [{"start": 15, "end": 34, "label": "DISEASE", "text": "cat scratch disease"}, {"start": 39, "end": 58, "label": "SYMPTOM", "text": "swollen lymph nodes"}]}
+{"text": "She has West Nile virus infection and reports fever and headache.", "entities": [{"start": 8, "end": 33, "label": "DISEASE", "text": "West Nile virus infection"}, {"start": 46, "end": 51, "label": "SYMPTOM", "text": "fever"}, {"start": 56, "end": 64, "label": "SYMPTOM", "text": "headache"}]}
+{"text": "The patient has parvovirus B19 infection and aplastic anaemia.", "entities": [{"start": 16, "end": 40, "label": "DISEASE", "text": "parvovirus B19 infection"}, {"start": 45, "end": 61, "label": "DISEASE", "text": "aplastic anaemia"}]}
+{"text": "He has coarctation of the aorta and hypertension.", "entities": [{"start": 7, "end": 31, "label": "DISEASE", "text": "coarctation of the aorta"}, {"start": 36, "end": 48, "label": "DISEASE", "text": "hypertension"}]}
+{"text": "A patient with Eisenmenger syndrome and cyanosis.", "entities": [{"start": 15, "end": 35, "label": "DISEASE", "text": "Eisenmenger syndrome"}, {"start": 40, "end": 48, "label": "SYMPTOM", "text": "cyanosis"}]}
+{"text": "She has Wolff-Parkinson-White syndrome and palpitations.", "entities": [{"start": 8, "end": 38, "label": "DISEASE", "text": "Wolff-Parkinson-White syndrome"}, {"start": 43, "end": 55, "label": "SYMPTOM", "text": "palpitations"}]}
+{"text": "The patient has long QT syndrome and syncope.", "entities": [{"start": 16, "end": 32, "label": "DISEASE", "text": "long QT syndrome"}, {"start": 37, "end": 44, "label": "SYMPTOM", "text": "syncope"}]}
+{"text": "He has hypertrophic obstructive cardiomyopathy and dyspnea.", "entities": [{"start": 7, "end": 46, "label": "DISEASE", "text": "hypertrophic obstructive cardiomyopathy"}, {"start": 51, "end": 58, "label": "SYMPTOM", "text": "dyspnea"}]}
+{"text": "A patient with constrictive pericarditis and ascites.", "entities": [{"start": 15, "end": 40, "label": "DISEASE", "text": "constrictive pericarditis"}, {"start": 45, "end": 52, "label": "SYMPTOM", "text": "ascites"}]}
+{"text": "She has mitral stenosis and atrial fibrillation.", "entities": [{"start": 8, "end": 23, "label": "DISEASE", "text": "mitral stenosis"}, {"start": 28, "end": 47, "label": "DISEASE", "text": "atrial fibrillation"}]}
+{"text": "The patient has aortic stenosis and syncope.", "entities": [{"start": 16, "end": 31, "label": "DISEASE", "text": "aortic stenosis"}, {"start": 36, "end": 43, "label": "SYMPTOM", "text": "syncope"}]}
+{"text": "He has tricuspid regurgitation and right heart failure.", "entities": [{"start": 7, "end": 30, "label": "DISEASE", "text": "tricuspid regurgitation"}, {"start": 35, "end": 54, "label": "DISEASE", "text": "right heart failure"}]}
+{"text": "A patient with complete heart block and syncope on admission.", "entities": [{"start": 15, "end": 35, "label": "DISEASE", "text": "complete heart block"}, {"start": 40, "end": 47, "label": "SYMPTOM", "text": "syncope"}]}
+{"text": "She was found to have an incidental pulmonary nodule.", "entities": []}
+{"text": "He has obstructive sleep apnoea and obesity.", "entities": [{"start": 7, "end": 31, "label": "DISEASE", "text": "obstructive sleep apnoea"}, {"start": 36, "end": 43, "label": "CONDITION", "text": "obesity"}]}
+{"text": "The patient has restless legs syndrome and iron deficiency.", "entities": [{"start": 16, "end": 38, "label": "DISEASE", "text": "restless legs syndrome"}, {"start": 43, "end": 58, "label": "CONDITION", "text": "iron deficiency"}]}
+{"text": "She has narcolepsy and hypersomnia.", "entities": [{"start": 8, "end": 18, "label": "DISEASE", "text": "narcolepsy"}, {"start": 23, "end": 34, "label": "SYMPTOM", "text": "hypersomnia"}]}
+{"text": "He has acoustic neuroma and hearing impairment.", "entities": [{"start": 7, "end": 23, "label": "DISEASE", "text": "acoustic neuroma"}, {"start": 28, "end": 46, "label": "CONDITION", "text": "hearing impairment"}]}
+{"text": "A patient with Meniere disease and vertigo.", "entities": [{"start": 15, "end": 30, "label": "DISEASE", "text": "Meniere disease"}, {"start": 35, "end": 42, "label": "SYMPTOM", "text": "vertigo"}]}
+{"text": "She has Tolosa-Hunt syndrome and orbital pain.", "entities": [{"start": 8, "end": 28, "label": "DISEASE", "text": "Tolosa-Hunt syndrome"}, {"start": 33, "end": 45, "label": "SYMPTOM", "text": "orbital pain"}]}
+{"text": "The patient has trigeminal neuralgia and facial pain.", "entities": [{"start": 16, "end": 36, "label": "DISEASE", "text": "trigeminal neuralgia"}, {"start": 41, "end": 52, "label": "SYMPTOM", "text": "facial pain"}]}
+{"text": "He has post-herpetic neuralgia and burning pain.", "entities": [{"start": 7, "end": 30, "label": "DISEASE", "text": "post-herpetic neuralgia"}, {"start": 35, "end": 47, "label": "SYMPTOM", "text": "burning pain"}]}
+{"text": "A patient with complex regional pain syndrome and limb pain.", "entities": [{"start": 15, "end": 45, "label": "DISEASE", "text": "complex regional pain syndrome"}, {"start": 50, "end": 59, "label": "SYMPTOM", "text": "limb pain"}]}
+{"text": "She has phantom limb pain following amputation.", "entities": [{"start": 8, "end": 25, "label": "SYMPTOM", "text": "phantom limb pain"}]}
+{"text": "The patient has conversion disorder and weakness.", "entities": [{"start": 16, "end": 35, "label": "DISEASE", "text": "conversion disorder"}, {"start": 40, "end": 48, "label": "SYMPTOM", "text": "weakness"}]}
+{"text": "He has functional neurological disorder and tremors.", "entities": [{"start": 7, "end": 39, "label": "DISEASE", "text": "functional neurological disorder"}, {"start": 44, "end": 51, "label": "SYMPTOM", "text": "tremors"}]}

@@ -1,0 +1,34 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Temporary and generated files
+*.log
+*.tmp
+_tmp_*.py
+
+# Kiro session files
+.kiro/
+
+# Large model binaries (keep models/ tracked but exclude if desired)
+# Uncomment below to exclude model weights from git:
+# models/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/

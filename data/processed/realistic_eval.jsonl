@@ -1,0 +1,68 @@
+{"text": "The patient was diagnosed with migraine.", "entities": [{"text": "migraine", "start": 31, "end": 39, "label": "DISEASE"}]}
+{"text": "The patient has been diagnosed with migraine.", "entities": [{"text": "migraine", "start": 36, "end": 44, "label": "DISEASE"}]}
+{"text": "She was diagnosed with migraine disorder.", "entities": [{"text": "migraine disorder", "start": 23, "end": 40, "label": "DISEASE"}]}
+{"text": "Patient has migraine.", "entities": [{"text": "migraine", "start": 12, "end": 20, "label": "DISEASE"}]}
+{"text": "Is Sumatriptan effective for migraine?", "entities": [{"text": "Sumatriptan", "start": 3, "end": 14, "label": "DRUG"}, {"text": "migraine", "start": 29, "end": 37, "label": "DISEASE"}]}
+{"text": "What is the treatment for migraine?", "entities": [{"text": "migraine", "start": 26, "end": 34, "label": "DISEASE"}]}
+{"text": "Can Topiramate be used for migraine prevention?", "entities": [{"text": "Topiramate", "start": 4, "end": 14, "label": "DRUG"}, {"text": "migraine", "start": 27, "end": 35, "label": "DISEASE"}]}
+{"text": "The patient reports a migraine headache.", "entities": [{"text": "migraine headache", "start": 22, "end": 39, "label": "SYMPTOM"}]}
+{"text": "She is experiencing a migraine.", "entities": [{"text": "migraine", "start": 22, "end": 30, "label": "SYMPTOM"}]}
+{"text": "The patient has a migraine today.", "entities": [{"text": "migraine", "start": 18, "end": 26, "label": "SYMPTOM"}]}
+{"text": "She has irritable bowel syndrome.", "entities": [{"text": "irritable bowel syndrome", "start": 8, "end": 32, "label": "DISEASE"}]}
+{"text": "The patient was diagnosed with irritable bowel syndrome.", "entities": [{"text": "irritable bowel syndrome", "start": 31, "end": 55, "label": "DISEASE"}]}
+{"text": "What drugs are used for irritable bowel syndrome?", "entities": [{"text": "irritable bowel syndrome", "start": 24, "end": 48, "label": "DISEASE"}]}
+{"text": "The patient has liver disease.", "entities": [{"text": "liver disease", "start": 16, "end": 29, "label": "DISEASE"}]}
+{"text": "The patient has liver failure.", "entities": [{"text": "liver failure", "start": 16, "end": 29, "label": "DISEASE"}]}
+{"text": "The patient was diagnosed with liver disease.", "entities": [{"text": "liver disease", "start": 31, "end": 44, "label": "DISEASE"}]}
+{"text": "Is this drug safe in liver failure?", "entities": [{"text": "liver failure", "start": 21, "end": 34, "label": "DISEASE"}]}
+{"text": "Can this medication be used in acute liver failure?", "entities": [{"text": "acute liver failure", "start": 31, "end": 50, "label": "DISEASE"}]}
+{"text": "The patient has Alzheimer disease.", "entities": [{"text": "Alzheimer disease", "start": 16, "end": 33, "label": "DISEASE"}]}
+{"text": "She was diagnosed with Alzheimer disease.", "entities": [{"text": "Alzheimer disease", "start": 23, "end": 40, "label": "DISEASE"}]}
+{"text": "Is Donepezil used for Alzheimer disease?", "entities": [{"text": "Donepezil", "start": 3, "end": 12, "label": "DRUG"}, {"text": "Alzheimer disease", "start": 22, "end": 39, "label": "DISEASE"}]}
+{"text": "The patient has dementia.", "entities": [{"text": "dementia", "start": 16, "end": 24, "label": "DISEASE"}]}
+{"text": "She was diagnosed with dementia.", "entities": [{"text": "dementia", "start": 23, "end": 31, "label": "DISEASE"}]}
+{"text": "What treatment is available for dementia?", "entities": [{"text": "dementia", "start": 32, "end": 40, "label": "DISEASE"}]}
+{"text": "The patient has vascular dementia.", "entities": [{"text": "vascular dementia", "start": 16, "end": 33, "label": "DISEASE"}]}
+{"text": "The patient reports dyspnea.", "entities": [{"text": "dyspnea", "start": 20, "end": 27, "label": "SYMPTOM"}]}
+{"text": "She is experiencing dyspnea.", "entities": [{"text": "dyspnea", "start": 20, "end": 27, "label": "SYMPTOM"}]}
+{"text": "Can Lisinopril be used for heart failure with dyspnea?", "entities": [{"text": "Lisinopril", "start": 4, "end": 14, "label": "DRUG"}, {"text": "heart failure", "start": 27, "end": 40, "label": "DISEASE"}, {"text": "dyspnea", "start": 46, "end": 53, "label": "SYMPTOM"}]}
+{"text": "The patient on Carvedilol complains of dyspnea.", "entities": [{"text": "Carvedilol", "start": 15, "end": 25, "label": "DRUG"}, {"text": "dyspnea", "start": 39, "end": 46, "label": "SYMPTOM"}]}
+{"text": "Is dyspnea a side effect of this medication?", "entities": [{"text": "dyspnea", "start": 3, "end": 10, "label": "SYMPTOM"}]}
+{"text": "The patient has chronic fatigue syndrome.", "entities": [{"text": "chronic fatigue syndrome", "start": 16, "end": 40, "label": "DISEASE"}]}
+{"text": "She was diagnosed with chronic fatigue syndrome.", "entities": [{"text": "chronic fatigue syndrome", "start": 23, "end": 47, "label": "DISEASE"}]}
+{"text": "The patient has fatigue syndrome.", "entities": [{"text": "fatigue syndrome", "start": 16, "end": 32, "label": "DISEASE"}]}
+{"text": "She has vestibular dysfunction.", "entities": [{"text": "vestibular dysfunction", "start": 8, "end": 30, "label": "CONDITION"}]}
+{"text": "The patient has vestibular dysfunction.", "entities": [{"text": "vestibular dysfunction", "start": 16, "end": 38, "label": "CONDITION"}]}
+{"text": "Is this drug safe in vestibular dysfunction?", "entities": [{"text": "vestibular dysfunction", "start": 21, "end": 43, "label": "CONDITION"}]}
+{"text": "The patient has mild cognitive impairment.", "entities": [{"text": "mild cognitive impairment", "start": 16, "end": 41, "label": "CONDITION"}]}
+{"text": "The patient has severe cognitive impairment.", "entities": [{"text": "severe cognitive impairment", "start": 16, "end": 43, "label": "CONDITION"}]}
+{"text": "Is this drug safe in cognitive impairment?", "entities": [{"text": "cognitive impairment", "start": 21, "end": 41, "label": "CONDITION"}]}
+{"text": "The patient was diagnosed with Parkinson disease.", "entities": [{"text": "Parkinson disease", "start": 31, "end": 48, "label": "DISEASE"}]}
+{"text": "What drugs are used for Parkinson disease?", "entities": [{"text": "Parkinson disease", "start": 24, "end": 41, "label": "DISEASE"}]}
+{"text": "The patient has multiple sclerosis.", "entities": [{"text": "multiple sclerosis", "start": 16, "end": 34, "label": "DISEASE"}]}
+{"text": "The patient was diagnosed with multiple sclerosis.", "entities": [{"text": "multiple sclerosis", "start": 31, "end": 49, "label": "DISEASE"}]}
+{"text": "The patient has rheumatoid arthritis.", "entities": [{"text": "rheumatoid arthritis", "start": 16, "end": 36, "label": "DISEASE"}]}
+{"text": "The patient has osteoporosis.", "entities": [{"text": "osteoporosis", "start": 16, "end": 28, "label": "DISEASE"}]}
+{"text": "The patient reports shortness of breath.", "entities": [{"text": "shortness of breath", "start": 20, "end": 39, "label": "SYMPTOM"}]}
+{"text": "The patient reports chest pain.", "entities": [{"text": "chest pain", "start": 20, "end": 30, "label": "SYMPTOM"}]}
+{"text": "The patient reports palpitations.", "entities": [{"text": "palpitations", "start": 20, "end": 32, "label": "SYMPTOM"}]}
+{"text": "The patient reports vomiting.", "entities": [{"text": "vomiting", "start": 20, "end": 28, "label": "SYMPTOM"}]}
+{"text": "The patient reports sweating.", "entities": [{"text": "sweating", "start": 20, "end": 28, "label": "SYMPTOM"}]}
+{"text": "The patient has thyroid dysfunction.", "entities": [{"text": "thyroid dysfunction", "start": 16, "end": 35, "label": "CONDITION"}]}
+{"text": "Is this drug safe in thyroid dysfunction?", "entities": [{"text": "thyroid dysfunction", "start": 21, "end": 40, "label": "CONDITION"}]}
+{"text": "The patient has adrenal insufficiency.", "entities": [{"text": "adrenal insufficiency", "start": 16, "end": 37, "label": "CONDITION"}]}
+{"text": "Can Metformin be used in adrenal insufficiency?", "entities": [{"text": "Metformin", "start": 4, "end": 13, "label": "DRUG"}, {"text": "adrenal insufficiency", "start": 25, "end": 46, "label": "CONDITION"}]}
+{"text": "The patient was treated successfully.", "entities": []}
+{"text": "Someone should consult a doctor about their treatment.", "entities": []}
+{"text": "The medical condition was assessed.", "entities": []}
+{"text": "Treatment was initiated.", "entities": []}
+{"text": "The patient did not report any issues.", "entities": []}
+{"text": "Metformin for type 2 diabetes in a patient with fatigue and renal impairment.", "entities": [{"text": "Metformin", "start": 0, "end": 9, "label": "DRUG"}, {"text": "type 2 diabetes", "start": 14, "end": 29, "label": "DISEASE"}, {"text": "fatigue", "start": 48, "end": 55, "label": "SYMPTOM"}, {"text": "renal impairment", "start": 60, "end": 76, "label": "CONDITION"}]}
+{"text": "Is Atorvastatin safe in hepatic impairment for a patient with hypertension and dizziness?", "entities": [{"text": "Atorvastatin", "start": 3, "end": 15, "label": "DRUG"}, {"text": "hepatic impairment", "start": 24, "end": 42, "label": "CONDITION"}, {"text": "hypertension", "start": 62, "end": 74, "label": "DISEASE"}, {"text": "dizziness", "start": 79, "end": 88, "label": "SYMPTOM"}]}
+{"text": "Can Lisinopril be used for heart failure with dyspnea and reduced kidney function?", "entities": [{"text": "Lisinopril", "start": 4, "end": 14, "label": "DRUG"}, {"text": "heart failure", "start": 27, "end": 40, "label": "DISEASE"}, {"text": "dyspnea", "start": 46, "end": 53, "label": "SYMPTOM"}, {"text": "reduced kidney function", "start": 58, "end": 81, "label": "CONDITION"}]}
+{"text": "Is Donepezil appropriate for Alzheimer disease in moderate renal impairment?", "entities": [{"text": "Donepezil", "start": 3, "end": 12, "label": "DRUG"}, {"text": "Alzheimer disease", "start": 29, "end": 46, "label": "DISEASE"}, {"text": "moderate renal impairment", "start": 50, "end": 75, "label": "CONDITION"}]}
+{"text": "The patient with irritable bowel syndrome reports nausea and dizziness.", "entities": [{"text": "irritable bowel syndrome", "start": 17, "end": 41, "label": "DISEASE"}, {"text": "nausea", "start": 50, "end": 56, "label": "SYMPTOM"}, {"text": "dizziness", "start": 61, "end": 70, "label": "SYMPTOM"}]}
+{"text": "Patient has migraine and reports fatigue.", "entities": [{"text": "migraine", "start": 12, "end": 20, "label": "DISEASE"}, {"text": "fatigue", "start": 33, "end": 40, "label": "SYMPTOM"}]}
+{"text": "The patient has Alzheimer disease with dyspnea.", "entities": [{"text": "Alzheimer disease", "start": 16, "end": 33, "label": "DISEASE"}, {"text": "dyspnea", "start": 39, "end": 46, "label": "SYMPTOM"}]}
+{"text": "Dementia with hepatic dysfunction — is this drug safe?", "entities": [{"text": "Dementia", "start": 0, "end": 8, "label": "DISEASE"}, {"text": "hepatic dysfunction", "start": 14, "end": 33, "label": "CONDITION"}]}
+{"text": "The patient has liver failure and nausea.", "entities": [{"text": "liver failure", "start": 16, "end": 29, "label": "DISEASE"}, {"text": "nausea", "start": 34, "end": 40, "label": "SYMPTOM"}]}
